@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/contour
+END
+ContourDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/contour/ContourDataset.java
+END
+NonGridContourDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/contour/NonGridContourDataset.java
+END
+DefaultContourDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/contour/DefaultContourDataset.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/contour/package.html
+END

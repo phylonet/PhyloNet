@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/1173/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/model
+END
+RateModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/model/RateModel.java
+END
+BiAllelicGTR.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/model/BiAllelicGTR.java
+END
+GTRModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/1173/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/model/GTRModel.java
+END
+JCModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/999/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/model/JCModel.java
+END
+SubstitutionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/999/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/model/SubstitutionModel.java
+END

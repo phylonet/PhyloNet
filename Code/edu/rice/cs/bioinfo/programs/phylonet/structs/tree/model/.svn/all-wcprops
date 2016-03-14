@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/1163/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/689/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/Tree.java
+END
+TMutableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/202/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/TMutableNode.java
+END
+MutableTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/MutableTree.java
+END
+TNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/741/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/TNode.java
+END

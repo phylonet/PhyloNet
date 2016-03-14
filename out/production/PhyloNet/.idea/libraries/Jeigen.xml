@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Jeigen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/BioU/Jeigen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

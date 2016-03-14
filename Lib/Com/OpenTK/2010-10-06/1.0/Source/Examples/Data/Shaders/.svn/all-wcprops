@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders
+END
+Simple_FS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/Simple_FS.glsl
+END
+Simple_VS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/Simple_VS.glsl
+END
+CubeMap_FS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/CubeMap_FS.glsl
+END
+CubeMap_VS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/CubeMap_VS.glsl
+END
+JuliaSet_VS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/JuliaSet_VS.glsl
+END
+JuliaSet_SM2_FS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/JuliaSet_SM2_FS.glsl
+END
+JuliaSet_SM3_FS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/JuliaSet_SM3_FS.glsl
+END
+Parallax_FS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/Parallax_FS.glsl
+END
+Parallax_VS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/Parallax_VS.glsl
+END
+Picking_FS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/Picking_FS.glsl
+END
+Picking_VS.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Data/Shaders/Picking_VS.glsl
+END

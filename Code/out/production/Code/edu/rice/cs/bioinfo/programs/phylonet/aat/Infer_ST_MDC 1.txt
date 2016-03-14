@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN NETWORKS;
+
+Network g1 = ((((a,b),c),d),e);
+Network g2 = ((a,b),((c,e),d));
+Network g3 = ((a,c),((b,e),d));
+
+END;
+
+
+BEGIN PHYLONET;
+
+Infer_ST_MDC (g1, g2, g3);
+
+END;
+===
+
+Infer_ST_MDC (g1, g2, g3)
+(e:0.0,(d:0.0,(c:0.0,(a:0.0,b:0.0):1.0):2.0):4.0):0.0;
+ Total number of extra lineages:7.0
+===

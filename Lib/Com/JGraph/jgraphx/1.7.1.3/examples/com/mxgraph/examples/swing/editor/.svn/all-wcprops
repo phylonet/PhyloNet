@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor
+END
+EditorPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorPopupMenu.java
+END
+EditorRuler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorRuler.java
+END
+EditorMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorMenuBar.java
+END
+SchemaGraphComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/SchemaGraphComponent.java
+END
+EditorPalette.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorPalette.java
+END
+EditorKeyboardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorKeyboardHandler.java
+END
+EditorActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorActions.java
+END
+EditorToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorToolBar.java
+END
+BasicGraphEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/BasicGraphEditor.java
+END
+SchemaEditorMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/SchemaEditorMenuBar.java
+END
+ShadowBorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/ShadowBorder.java
+END
+JTableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/JTableRenderer.java
+END
+SchemaEditorToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/SchemaEditorToolBar.java
+END
+DefaultFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/DefaultFileFilter.java
+END
+EditorAboutFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/examples/com/mxgraph/examples/swing/editor/EditorAboutFrame.java
+END

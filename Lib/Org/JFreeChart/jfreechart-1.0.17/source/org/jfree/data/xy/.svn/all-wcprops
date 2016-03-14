@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy
+END
+AbstractIntervalXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/AbstractIntervalXYDataset.java
+END
+XYDatasetTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYDatasetTableModel.java
+END
+DefaultOHLCDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultOHLCDataset.java
+END
+XIntervalSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XIntervalSeriesCollection.java
+END
+NormalizedMatrixSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/NormalizedMatrixSeries.java
+END
+DefaultXYZDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultXYZDataset.java
+END
+IntervalXYZDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/IntervalXYZDataset.java
+END
+XYInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYInterval.java
+END
+YisSymbolic.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/YisSymbolic.java
+END
+XYDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYDataItem.java
+END
+VectorDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/VectorDataItem.java
+END
+DefaultHighLowDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultHighLowDataset.java
+END
+XYIntervalSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYIntervalSeries.java
+END
+DefaultTableXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultTableXYDataset.java
+END
+YIntervalDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/YIntervalDataItem.java
+END
+XIntervalSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XIntervalSeries.java
+END
+XYSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYSeriesCollection.java
+END
+VectorXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/VectorXYDataset.java
+END
+VectorSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/VectorSeriesCollection.java
+END
+MatrixSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/MatrixSeriesCollection.java
+END
+IntervalXYDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/IntervalXYDelegate.java
+END
+XYZDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYZDataset.java
+END
+YWithXInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/YWithXInterval.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/Vector.java
+END
+XYDomainInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYDomainInfo.java
+END
+YIntervalSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/YIntervalSeriesCollection.java
+END
+XisSymbolic.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XisSymbolic.java
+END
+XYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYDataset.java
+END
+WindDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/WindDataset.java
+END
+XYCoordinate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYCoordinate.java
+END
+DefaultXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultXYDataset.java
+END
+IntervalXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/IntervalXYDataset.java
+END
+XYSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYSeries.java
+END
+CategoryTableXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/CategoryTableXYDataset.java
+END
+DefaultWindDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultWindDataset.java
+END
+VectorSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/VectorSeries.java
+END
+YInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/YInterval.java
+END
+TableXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/TableXYDataset.java
+END
+XYIntervalDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYIntervalDataItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/package.html
+END
+MatrixSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/MatrixSeries.java
+END
+DefaultIntervalXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/DefaultIntervalXYDataset.java
+END
+AbstractXYZDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/AbstractXYZDataset.java
+END
+XIntervalDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XIntervalDataItem.java
+END
+YIntervalSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/YIntervalSeries.java
+END
+XYRangeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYRangeInfo.java
+END
+AbstractXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/AbstractXYDataset.java
+END
+XYBarDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYBarDataset.java
+END
+OHLCDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/OHLCDataset.java
+END
+XYIntervalSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/XYIntervalSeriesCollection.java
+END
+OHLCDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/xy/OHLCDataItem.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Glu
+END
+GluEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Glu/GluEnums.cs
+END
+GluCore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Glu/GluCore.cs
+END
+GluDelegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Glu/GluDelegates.cs
+END
+Glu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Glu/Glu.cs
+END
+GluHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Glu/GluHelper.cs
+END

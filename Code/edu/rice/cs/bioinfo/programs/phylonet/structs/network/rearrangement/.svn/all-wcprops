@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/1162/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement
+END
+ReticulationEdgeDestinationChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/r/bioinfo/!svn/ver/1162/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/ReticulationEdgeDestinationChange.java
+END
+PruneDeleteGraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/790/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/PruneDeleteGraft.java
+END
+NetworkRandomTopologyNeighbourGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/r/bioinfo/!svn/ver/790/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NetworkRandomTopologyNeighbourGenerator.java
+END
+ReticulationEdgeAddition.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/r/bioinfo/!svn/ver/1162/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/ReticulationEdgeAddition.java
+END
+NetworkRandomNeighbourGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/r/bioinfo/!svn/ver/790/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NetworkRandomNeighbourGenerator.java
+END
+NetworkRandomParameterNeighbourGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NetworkRandomParameterNeighbourGenerator.java
+END
+ReticulationEdgeDeletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/r/bioinfo/!svn/ver/790/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/ReticulationEdgeDeletion.java
+END
+EdgeParameterChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/791/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/EdgeParameterChange.java
+END
+EdgeLengthChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/791/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/EdgeLengthChange.java
+END
+NetworkNeighbourhoodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/r/bioinfo/!svn/ver/1162/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NetworkNeighbourhoodGenerator.java
+END
+ReticulationFlip.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/r/bioinfo/!svn/ver/1162/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/ReticulationFlip.java
+END
+UltrametricNetworkRandomParameterNeighbourGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/UltrametricNetworkRandomParameterNeighbourGenerator.java
+END
+ReticulationEdgeReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/r/bioinfo/!svn/ver/790/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/ReticulationEdgeReplace.java
+END
+NodeHeightChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NodeHeightChange.java
+END
+NetworkRearrangementOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NetworkRearrangementOperation.java
+END
+EdgeInheritanceProbabilityChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/r/bioinfo/!svn/ver/776/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/EdgeInheritanceProbabilityChange.java
+END
+TwoNetworkRandomPDGGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/r/bioinfo/!svn/ver/790/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/TwoNetworkRandomPDGGenerator.java
+END
+EdgeSourceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/775/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/EdgeSourceChange.java
+END
+NonUltrametricNetworkRandomParameterNeighbourGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NonUltrametricNetworkRandomParameterNeighbourGenerator.java
+END
+NetworkNeighbourhoodRandomWalkGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/r/bioinfo/!svn/ver/803/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/rearrangement/NetworkNeighbourhoodRandomWalkGenerator.java
+END

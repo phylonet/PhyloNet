@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial
+END
+StandardDialScaleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/StandardDialScaleTest.java
+END
+DialValueIndicatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/DialValueIndicatorTest.java
+END
+StandardDialFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/StandardDialFrameTest.java
+END
+StandardDialRangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/StandardDialRangeTest.java
+END
+DialPlotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/DialPlotTest.java
+END
+MyDialLayerChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/MyDialLayerChangeListener.java
+END
+DialBackgroundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/DialBackgroundTest.java
+END
+DialTextAnnotationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/DialTextAnnotationTest.java
+END
+AbstractDialLayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/AbstractDialLayerTest.java
+END
+ArcDialFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/ArcDialFrameTest.java
+END
+DialPointerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/DialPointerTest.java
+END
+DialCapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/plot/dial/DialCapTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/jdbc
+END
+JDBCCategoryDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/jdbc/JDBCCategoryDataset.java
+END
+JDBCPieDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/jdbc/JDBCPieDataset.java
+END
+JDBCXYDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/jdbc/JDBCXYDataset.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/jdbc/package.html
+END

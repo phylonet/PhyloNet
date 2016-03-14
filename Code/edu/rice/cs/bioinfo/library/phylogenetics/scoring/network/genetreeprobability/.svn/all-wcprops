@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/scoring/network/genetreeprobability
+END
+GeneTreeProbabilityFromNetworkSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/r/bioinfo/!svn/ver/146/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/scoring/network/genetreeprobability/GeneTreeProbabilityFromNetworkSolver.java
+END
+GeneTreeProbabilityYF.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/scoring/network/genetreeprobability/GeneTreeProbabilityYF.java
+END
+GeneTreeProbabilityYFTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/scoring/network/genetreeprobability/GeneTreeProbabilityYFTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings
+END
+CarbonAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings/CarbonAPI.cs
+END
+MacOSKeys.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings/MacOSKeys.cs
+END
+CoreFoundation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings/CoreFoundation.cs
+END
+SpeechChannel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings/SpeechChannel.cs
+END
+Agl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings/Agl.cs
+END
+QuartzDisplayServicesAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonBindings/QuartzDisplayServicesAPI.cs
+END

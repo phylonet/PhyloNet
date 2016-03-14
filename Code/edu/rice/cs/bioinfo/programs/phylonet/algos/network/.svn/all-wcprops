@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network
+END
+GeneTreeProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeProbability.java
+END
+NetworkLikelihoodFromGTT.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihoodFromGTT.java
+END
+MDCOnNetworkForCoalHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/1175/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/MDCOnNetworkForCoalHistory.java
+END
+InferNetworkMLFromGTT_MultiTreesPerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTT_MultiTreesPerLocus.java
+END
+InferNetworkMLFromGTT_SingleTreePerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/r/bioinfo/!svn/ver/1002/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTT_SingleTreePerLocus.java
+END
+MDCOnNetworkYF.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/691/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/MDCOnNetworkYF.java
+END
+InferNetworkMLFromGTT.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTT.java
+END
+GeneTreeWithBranchLengthProbabilityYF.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeWithBranchLengthProbabilityYF.java
+END
+InferNetworkMLFromGTTWithParametricBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTTWithParametricBootstrap.java
+END
+NetworkLikelihoodFromGTTBL.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihoodFromGTTBL.java
+END
+GeneTreeProbabilityPseudo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/1178/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeProbabilityPseudo.java
+END
+NetworkPseudoLikelihoodFromGTT.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkPseudoLikelihoodFromGTT.java
+END
+InferNetworkMLFromGTTBL_MultiTreesPerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTTBL_MultiTreesPerLocus.java
+END
+InferNetworkPseudoMLFromGTT_MultiTreesPerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkPseudoMLFromGTT_MultiTreesPerLocus.java
+END
+GeneTreeProbabilityYF_Cached.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/1176/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeProbabilityYF_Cached.java
+END
+InferNetworkMLFromGTTBL_SingleTreePerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTTBL_SingleTreePerLocus.java
+END
+InferNetworkPseudoMLFromGTT_SingleTreePerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkPseudoMLFromGTT_SingleTreePerLocus.java
+END
+InferNetworkMLFromGTTBL.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTTBL.java
+END
+InferNetworkPseudoMLFromGTT.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkPseudoMLFromGTT.java
+END
+InferNetworkMLFromGTTBLWithParametricBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTTBLWithParametricBootstrap.java
+END
+NetworkLikelihoodFromGTT_MultiTreesPerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/793/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihoodFromGTT_MultiTreesPerLocus.java
+END
+GeneTreeProbabilityYF.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeProbabilityYF.java
+END
+GeneTreeProbabilityYFTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/333/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeProbabilityYFTest.java
+END
+NetworkLikelihoodFromGTT_SingleTreePerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/r/bioinfo/!svn/ver/1176/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihoodFromGTT_SingleTreePerLocus.java
+END
+GeneTreeProbabilityYFForMulTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/1012/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeProbabilityYFForMulTree.java
+END
+InferMLNetworkFromSequences.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferMLNetworkFromSequences.java
+END
+InferNetworkML.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkML.java
+END
+NetworkLikelihoodFromGTTBL_MultiTreesPerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/r/bioinfo/!svn/ver/793/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihoodFromGTTBL_MultiTreesPerLocus.java
+END
+MDCOnNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/MDCOnNetwork.java
+END
+InferNetworkMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/1162/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMP.java
+END
+NetworkPseudoLikelihoodFromGTT_MultiTreesPerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/r/bioinfo/!svn/ver/1178/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkPseudoLikelihoodFromGTT_MultiTreesPerLocus.java
+END
+GeneTreeWithBranchLengthProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/GeneTreeWithBranchLengthProbability.java
+END
+NetworkLikelihoodFromGTTBL_SingleTreePerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/r/bioinfo/!svn/ver/760/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihoodFromGTTBL_SingleTreePerLocus.java
+END
+NetworkPseudoLikelihoodFromGTT_SingleTreePerLocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/r/bioinfo/!svn/ver/1178/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkPseudoLikelihoodFromGTT_SingleTreePerLocus.java
+END
+InferNetworkMLFromGT.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/1176/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGT.java
+END
+InferNetworkMLFromGTWithParametricBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/994/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTWithParametricBootstrap.java
+END
+InferNetworkMLFromGTTWithCrossValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/InferNetworkMLFromGTTWithCrossValidation.java
+END
+NetworkLikelihood.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/network/NetworkLikelihood.java
+END

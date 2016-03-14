@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes
+END
+Capsule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/Capsule.cs
+END
+VertexPositionColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/VertexPositionColor.cs
+END
+SlicedHose.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/SlicedHose.cs
+END
+ChamferCube.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/ChamferCube.cs
+END
+KochTetrahedron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/KochTetrahedron.cs
+END
+TorusKnot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/TorusKnot.cs
+END
+MengerSponge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/MengerSponge.cs
+END
+SlicedSphere.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Examples/Examples/Shapes/SlicedSphere.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10
+END
+ImageFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/ImageFormat.cs
+END
+Delegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/Delegates.cs
+END
+CL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/CL.cs
+END
+CLHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/CLHelper.cs
+END
+Enums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/Enums.cs
+END
+Core.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/Core.cs
+END
+ErrorHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CL10/ErrorHelper.cs
+END

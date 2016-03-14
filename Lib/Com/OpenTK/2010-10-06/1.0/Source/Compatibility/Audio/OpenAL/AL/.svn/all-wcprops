@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL
+END
+AL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL/AL.cs
+END
+EffectsExtension.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL/EffectsExtension.cs
+END
+EffectsExtensionPresets.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL/EffectsExtensionPresets.cs
+END
+ALEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL/ALEnums.cs
+END
+EffectsExtensionEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL/EffectsExtensionEnums.cs
+END
+XRamExtension.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Audio/OpenAL/AL/XRamExtension.cs
+END

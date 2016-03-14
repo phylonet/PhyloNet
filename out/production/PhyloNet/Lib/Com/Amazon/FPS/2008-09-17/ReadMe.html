@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+  <title>Amazon FPS C# Library</title>
+  <style type="text/css">
+    body, div, p, td, th {
+      font-family : helvetica,sans-serif, arial;
+      font-size : 12px;
+      color : #000000;
+    }
+
+    .aws-h1, h1{
+      font-family: verdana, arial, helvetica, sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+      color: #000000;
+    }
+    .aws-h2, h2{
+      font-family: verdana, arial, helvetica, sans-serif;
+      font-size: 14px;
+      color: #c60;
+    }
+    .aws-h3, h3{
+      font-family: verdana, arial, helvetica, sans-serif;
+      font-size: 12px;
+      font-weight: bold;
+      color: #333333;
+    }
+
+    /*table ID selector styles*/
+    #aws-table {
+      border-top: 1px solid #cccccc;
+      border-left: 1px solid #cccccc;
+      width:95%;
+    }
+
+    #aws-table td{
+      font-size: 12px;
+      padding: 5px 5px 5px 5px;
+      border-bottom: 1px solid #cccccc;
+      border-right: 1px solid #cccccc;
+      vertical-align:top;
+    }
+
+    #aws-table th {
+      font-size: 12px;
+      padding: 5px 5px 5px 5px;
+      border-bottom: 1px solid #cccccc;
+      border-right: 1px solid #cccccc;
+      vertical-align:top;
+      background-color: #eeeeee;
+      color: #333333;
+      font-size: 12px;
+      font-weight: bold;
+      text-align: left;
+    }
+
+    /*code, note, and example styles*/
+    pre {
+      font-family: "Courier New", Courier, mono;
+      font-size: 12px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      color: #000066;
+      padding: 5px;
+      background-color: #eff7ff;
+      border: 1px dashed #333;
+      width:75%;
+      display:block;
+    }
+
+  </style>
+</head>
+<body>
+<h2>About this Library</h2>
+<ul>
+<li>Based on the 2008-09-17 API version.</li>
+<li>Version 2.0</li>
+<li>Release Date : 2009-11-03</li>
+</ul>
+<h2>Before you begin</h2>
+<p>Extract the contents of amazon-fps-2008-09-17-cs-library.zip to a folder. The folder amazon-fps-2008-09-17-cs-library is created.This folder will be referred to as &lt;ROOT&gt; from this point onwards. Different sub-directories are</p>
+<ul>
+    <li>src\Amazon.FPS  &#8212; This folder contains the code files for the library and sample API calls to Amazon FPS.</li>
+    <li>src\Amazon.FPS.Samples &#8212; This folder contains the code files for sample API calls to Amazon FPS.</li>
+    <li>src\Amazon.CBUI  &#8212; This folder contains the code files for the library to generate CBUI pipeline urls</li>
+    <li>src\Amazon.CBUI.Samples &#8212; This folder contains the code files for sample pipeline calls to Amazon CBUI.</li>
+    <li>src\Amazon.IpnReturnUrlValidation  &#8212; This folder contains the code files for verifying Return Urls or IPNs sent by Amazon FPS.</li>
+    <li>src\Amazon.IpnReturnUrlValidation.Samples &#8212; This folder contains the code files for sample verification of ReturnUrls and IPNs sent by Amazon FPS.</li>
+</ul>
+<h2>Prerequisites</h2>
+
+<ul>
+<li>Amazon FPS Sandbox Account (<a href="https://developer.payments-sandbox.amazon.com/landingpage/">Click here to sign up</a>).</li>
+<li>Amazon FPS Developer Account (<a href="http://aws.amazon.com/fps">Click here to sign up</a>).</li>
+<li>ASP .NET 2.0 and above</li>
+</ul>
+
+<h2>Package Content</h2>
+
+<table id="aws-table">
+
+  <tbody>
+    <tr>
+      <th>Directory</th>
+      <th>Overview</th>
+    </tr>
+    <tr>
+      <td>
+        src
+      </td>
+      <td>
+        Source distribution of the library. All sources including code samples that demonstrate the use of the library located under this directory.
+      </td>
+    </tr>
+  </tbody>
+
+</table>
+
+
+<h2>Building Samples</h2>
+<ol>
+    <li> Update the CBUI endpoint (<b><font color="red" size="2">This step is ONLY  required for sandbox environment</font></b>, for production envirnment no changes are required.)</li>
+    <ul type="disc">
+	    <li> Open &lt;ROOT&gt;\src\Amazon.CBUI\Amazon.CBUI\AmazonFPSCBUIPipeline.cs file </li>
+        <li> Replace the following line
+            <tt><pre>protected static String CBUI_URL = "https://authorize.payments.amazon.com/cobranded-ui/actions/start";</pre></tt> with the code snippet below:
+	    <tt><pre>protected static String CBUI_URL = "https://authorize.payments-sandbox.amazon.com/cobranded-ui/actions/start";</pre></tt>
+        </li>
+
+        <li> Open &lt;ROOT&gt;\src\Amazon.FPS\Amazon.FPS\AmazonFPSConfig.cs file</li>
+        <li> Replace the following line
+            <tt><pre>private String serviceURL = "https://fps.amazonaws.com";</pre></tt> with the code snippet below:
+            <tt><pre>private String serviceURL = "https://fps.sandbox.amazonaws.com"</pre></tt>
+        </li>
+    </ul>
+    <li>Run <tt>csc /target:exe /out:CBUIPipelineSamples.exe /recurse:Amazon.CBUI\*.cs /recurse:Amazon.CBUI.Samples\*.cs /main:Amazon.CBUI.Samples.CBUIPipelineSamples</tt> in &lt;ROOT&gt;\src</li>
+    <li>Run <tt>csc /target:exe /out:AmazonFPSSamples.exe /recurse:Amazon.FPS\*.cs /recurse:Amazon.FPS.Samples\*.cs /main:Amazon.FPS.Samples.AmazonFPSSamples</tt> in &lt;ROOT&gt;\src
+  </li>
+</ol>
+
+<h2>Steps to make a payment</h2>
+<p> Making a payment involves two parts. First, you obtain a payment authorization from buyers by redirecting them to co-branded pages hosted by Amazon FPS. When buyers return to your web site, you receive a payment authorization(also called a sender token) as part of the return URL. Second, you use this payment authorization or sender token in a 'Pay' API call to make a payment.</p>
+<ol>
+    <li> Setup an app server at your side to receive HTTP redirect from Cobranded UI.</li>
+    <li> Get the authorization from the buyer </li>
+
+    <ul type="disc">
+	    <li> Open &lt;ROOT&gt;\src\Amazon.CBUI.Samples\Amazon.CBUI.Samples\CBUISingleUsePipelineSample.cs file </li>
+	    <li> In function <tt>invoke</tt>, set the following fields</li>
+	    <tt><pre>
+                pipeline.setMandatoryParameters("callerReferenceSingleUse",  "http://www.mysite.com/call_back.jsp", "5");
+        
+                //optional parameters
+                pipeline.addParameter("currencyCode", "USD");
+                pipeline.addParameter("paymentReason", "HarryPotter 1-5 DVD set");
+	    </pre></tt>
+	<li> Open &lt;ROOT&gt;\src\Amazon.CBUI.Samples\Amazon.CBUI.Samples\CBUIPipelineSamples.cs file </li>
+	<li> Set AWS Access Key ID and AWS Secret Access Key</li>
+         <pre>
+private static readonly String accessKey = "&lt;Your aws access key&gt;";
+private static readonly String secretKey = "&lt;Your aws secret key&gt;";
+          </pre>
+
+	<li> In function <tt>Main</tt>, uncomment the following line</li>
+	    <tt><pre>
+//CBUISingleUsePipelineSample.invoke(accessKey, secretKey);
+            </pre></tt>
+        </li>
+        <li>Open a command prompt and go to directory &lt;ROOT&gt;\src</li>
+	<li>Type, <tt>csc /target:exe /out:CBUIPipelineSamples.exe /recurse:Amazon.CBUI\*.cs /recurse:Amazon.CBUI.Samples\*.cs /main:Amazon.CBUI.Samples.CBUIPipelineSamples</tt></li>
+        <li>Run CBUISample.exe on command prompt in the same directory</li>
+      <li>Copy the URL printed on console and paste it on your browser. You will be redirected to Amazon FPS CBUI</li>
+
+        <li>Go through the pipeline. Make sure you use a different Amazon FPS account, while acting as buyer. At the end of the pipeline, you(buyer) will be redirected back to the return URL provided in the query string above.</li>
+        <li>The return URL will include expiry, tokenID, status, callerReference and signature parameters. Please note that tokenID will be used in Pay later.</li>
+		<li>Validate that Amazon Payments CBUI actually redirected the customer to the Return URL specified. You have two options to validate
+			<ol>
+				<li>Server-side validation using VerifySignature API call (recommended for quicker integration). <a href="IpnAndReturnUrlValidation.html#verifysignatureapiforreturnurl">Click here for steps.</a></li>
+				<li>Client-side validation using PKI based algorithm. <a href="IpnAndReturnUrlValidation.html#pkiforreturnurl">Click here for steps.</a></li>
+			</ol>
+		</li>
+        </ol>
+    </ul>
+<h3>Steps to make a payment</h3>
+    <ul>
+        <li> Open &lt;ROOT&gt;\src\Amazon.FPS.Samples\Amazon.FPS.Samples\AmazonFPSSamples.cs file </li>
+        <li> Set SenderTokenId the same as the one returned by CBUI above</li>
+        <li>Set AWS Access Key ID and AWS Secret Access Key</li>
+              <pre>
+String accessKeyId = "&lt;Your Access Key ID&gt;";
+String secretAccessKey = "&lt;Your Secret Access Key&gt;";
+              </pre>
+        </ul>
+        <ul>
+            <li>Set request parameters. For example, find following pre-generated snippet:</li>
+            <pre>
+// PayRequest request = new PayRequest();
+// @TODO: set request parameters here
+// PaySample.InvokePay(service, request);
+        </pre>
+    </ul>
+    <ul>
+        <li>Uncomment first and third line and set Pay request parameters</li>
+        <pre>
+PayRequest request = new PayRequest();
+request.CallerReference = "ABCDEFGHIJKL12345";
+request.SenderTokenId = "123ABCDEF53646GHT3546354";
+Amount amount = new Amount();
+amount.CurrencyCode = CurrencyCode.USD;
+amount.Value = "1";
+request.TransactionAmount = amount;
+PaySample.InvokePay(service, request);
+        </pre>
+    <li>Run in &lt;ROOT&gt;\src directory, <tt>csc /target:exe /out:AmazonFPSSamples.exe /recurse:Amazon.FPS\*.cs /recurse:Amazon.FPS.Samples\*.cs /main:Amazon.FPS.Samples.AmazonFPSSamples</tt> in &lt;ROOT&gt;\src
+    <li>Run AmazonFPSSamples.exe on command prompt</li>
+            <pre>
+PayResponse
+   PayResult
+      TransactionId
+          13L1AFBDB54MM68LBL8UDPJTQOZNP1F3PTC
+              TransactionStatus
+                  Pending
+                     ResponseMetadata
+                         RequestId
+                             85b069ef-8b27-43e1-89cf-f1cfcb3a0e72:0
+                             ...
+    </pre>
+    <li>Experiment with other samples, examine samples sources. When ready, add library project to your solution, and use it.</li>
+    <li>If the response status is Pending, you can use <tt>GetTransactionStatus</tt> API to get latest transaction status</li>
+	<li>Amazon Payments will post an IPN for this transaction to your ipn url registered with us. You have two options to validate this IPN.
+			<ol>
+				<li>Server-side validation using VerifySignature API call (recommended for quicker integration). <a href="IpnAndReturnUrlValidation.html#verifysignatureapiforipn">Click here for steps.</a></li>
+				<li>Client-side validation using PKI based algorithm. <a href="IpnAndReturnUrlValidation.html#pkiforipn">Click here for steps.</a></li>
+			</ol>
+		</li>
+	</ul>
+</ol>
+
+<h2>Related resources</h2>
+<a href="http://aws.amazon.com/fps/">More about Amazon FPS</a>
+<br/>
+<a href="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=2022&categoryID=277">Documentation</a>
+<br/>
+<a href="http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=126">Code samples</a>
+<br/>
+<a href="http://developer.amazonwebservices.com/connect/forum.jspa?forumID=35">Contact us for technical issues</a>
+<br/>
+
+<h2>Comments, Questions or Feedback</h2>
+
+If you have any comments, questions or feedback on the library, please start discussion here (<a href="http://developer.amazonwebservices.com/connect/forum.jspa?forumID=35">Amazon FPS forum</a>).
+</body>
+</html>

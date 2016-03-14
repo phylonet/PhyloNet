@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/Bindings
+END
+WglEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/Bindings/WglEnums.cs
+END
+WglCore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/Bindings/WglCore.cs
+END
+WglDelegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/Bindings/WglDelegates.cs
+END
+Wgl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/Bindings/Wgl.cs
+END

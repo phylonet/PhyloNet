@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS
+END
+EventInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/EventInfo.cs
+END
+CarbonGLNative.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonGLNative.cs
+END
+MacOSException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/MacOSException.cs
+END
+Application.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/Application.cs
+END
+CarbonInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonInput.cs
+END
+AglContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/AglContext.cs
+END
+CarbonWindowInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/CarbonWindowInfo.cs
+END
+MacOSGraphicsMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/MacOSGraphicsMode.cs
+END
+QuartzDisplayDeviceDriver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/QuartzDisplayDeviceDriver.cs
+END
+MacOSKeyMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/MacOSKeyMap.cs
+END
+MacOSFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/MacOS/MacOSFactory.cs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/804/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/743/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork/R.java
+END
+MatrixQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/728/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork/MatrixQ.java
+END
+SNAPPAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/743/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork/SNAPPAlgorithm.java
+END
+Algorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/804/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork/Algorithms.java
+END
+FMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/721/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork/FMatrix.java
+END
+SNAPPData.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/743/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/SNAPPForNetwork/SNAPPData.java
+END

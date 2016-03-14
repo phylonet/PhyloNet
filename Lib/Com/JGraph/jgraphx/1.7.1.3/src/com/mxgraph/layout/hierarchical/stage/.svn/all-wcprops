@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/layout/hierarchical/stage
+END
+mxMinimumCycleRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/layout/hierarchical/stage/mxMinimumCycleRemover.java
+END
+mxCoordinateAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/layout/hierarchical/stage/mxCoordinateAssignment.java
+END
+mxHierarchicalLayoutStage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/layout/hierarchical/stage/mxHierarchicalLayoutStage.java
+END
+mxMedianHybridCrossingReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/layout/hierarchical/stage/mxMedianHybridCrossingReduction.java
+END

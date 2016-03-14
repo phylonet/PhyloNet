@@ -1,0 +1,434 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/tests/witness
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+dom.A2.1
+file
+
+
+
+add
+
+patternLayout.6
+file
+
+
+
+add
+
+socketServer.2
+file
+
+
+
+add
+
+fallback1
+file
+
+
+
+add
+
+patternLayout.7
+file
+
+
+
+add
+
+socketServer.3
+file
+
+
+
+add
+
+dom.A1.4
+file
+
+
+
+add
+
+patternLayout.8
+file
+
+
+
+add
+
+prudent
+file
+
+
+
+add
+
+socketServer.4
+file
+
+
+
+add
+
+dom.A2.4
+file
+
+
+
+add
+
+patternLayout.9
+file
+
+
+
+add
+
+socketServer.5
+file
+
+
+
+add
+
+socketServer.6
+file
+
+
+
+add
+
+socketServer.7
+file
+
+
+
+add
+
+socketServer.8
+file
+
+
+
+add
+
+simple
+file
+
+
+
+add
+
+patternLayout.10
+file
+
+
+
+add
+
+patternLayout.11
+file
+
+
+
+add
+
+patternLayout.12
+file
+
+
+
+add
+
+patternLayout.13
+file
+
+
+
+add
+
+ttcc
+file
+
+
+
+add
+
+xmlLayout.1
+file
+
+
+
+add
+
+patternLayout.14
+file
+
+
+
+add
+
+xmlLayout.2
+file
+
+
+
+add
+
+xmlLayout.3
+file
+
+
+
+add
+
+patternLayout.mdc.clear
+file
+
+
+
+add
+
+drfa_blockedRollover.log
+file
+
+
+
+add
+
+LevelMatchFilter_deny
+file
+
+
+
+add
+
+LevelMatchFilter_accept
+file
+
+
+
+add
+
+patternLayout.mdc.1
+file
+
+
+
+add
+
+pattern
+dir
+
+
+
+add
+
+serialization
+dir
+
+
+
+add
+
+hierarchyThreshold.1
+file
+
+
+
+add
+
+hierarchyThreshold.2
+file
+
+
+
+add
+
+hierarchyThreshold.3
+file
+
+
+
+add
+
+hierarchyThreshold.4
+file
+
+
+
+add
+
+hierarchyThreshold.5
+file
+
+
+
+add
+
+hierarchyThreshold.6
+file
+
+
+
+add
+
+xmlLayout.mdc.1
+file
+
+
+
+add
+
+hierarchyThreshold.7
+file
+
+
+
+add
+
+xmlLayout.mdc.2
+file
+
+
+
+add
+
+hierarchyThreshold.8
+file
+
+
+
+add
+
+customLevel.1
+file
+
+
+
+add
+
+customLevel.2
+file
+
+
+
+add
+
+customLevel.3
+file
+
+
+
+add
+
+customLevel.4
+file
+
+
+
+add
+
+xmlLayout.null
+file
+
+
+
+add
+
+customLogger.1
+file
+
+
+
+add
+
+patternLayout.1
+file
+
+
+
+add
+
+customLogger.2
+file
+
+
+
+add
+
+patternLayout.2
+file
+
+
+
+add
+
+patternLayout.3
+file
+
+
+
+add
+
+patternLayout.4
+file
+
+
+
+add
+
+PatternParser_mdc
+file
+
+
+
+add
+
+dom.A1.1
+file
+
+
+
+add
+
+patternLayout.5
+file
+
+
+
+add
+
+socketServer.1
+file
+
+
+
+add
+

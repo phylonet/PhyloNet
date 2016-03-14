@@ -1,0 +1,5 @@
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.IpnReturnUrlValidation\bin\Debug\Amazon.IpnReturnUrlValidation.dll
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.IpnReturnUrlValidation\bin\Debug\Amazon.IpnReturnUrlValidation.pdb
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.IpnReturnUrlValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.IpnReturnUrlValidation\obj\Debug\Amazon.IpnReturnUrlValidation.dll
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.IpnReturnUrlValidation\obj\Debug\Amazon.IpnReturnUrlValidation.pdb

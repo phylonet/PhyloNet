@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl
+END
+EglWindowInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/EglWindowInfo.cs
+END
+EglContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/EglContext.cs
+END
+EglGraphicsMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/EglGraphicsMode.cs
+END
+EglX11PlatformFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/EglX11PlatformFactory.cs
+END
+EglWinPlatformFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/EglWinPlatformFactory.cs
+END
+EglMacPlatformFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/EglMacPlatformFactory.cs
+END
+Egl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Egl/Egl.cs
+END

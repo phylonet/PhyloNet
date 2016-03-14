@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/tree/nni
+END
+NearestNeighborInterchangeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/tree/nni/NearestNeighborInterchangeBase.java
+END
+NearestNeighborInterchangeInPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/tree/nni/NearestNeighborInterchangeInPlace.java
+END
+NNITree.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/77/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/tree/nni/NNITree.java
+END
+NearestNeighborInterchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/tree/nni/NearestNeighborInterchange.java
+END
+NearestNeighborInterchangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/tree/nni/NearestNeighborInterchangeTest.java
+END

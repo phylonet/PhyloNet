@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/762/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences
+END
+RunCommandUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/RunCommandUtilities.java
+END
+CreateTwoTreesDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/CreateTwoTreesDataSet.java
+END
+GenerateSeqGenData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/GenerateSeqGenData.java
+END
+CreateDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/744/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/CreateDataset.java
+END
+CreateDatasetInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/CreateDatasetInput.java
+END
+EthanGenerateMSCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/762/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/EthanGenerateMSCommand.java
+END
+GenerateMSGeneTrees.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/762/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/GenerateMSGeneTrees.java
+END
+GenerateNexusFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/762/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/generatesequences/GenerateNexusFile.java
+END

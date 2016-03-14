@@ -1,0 +1,364 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/src/main/java/org/apache/log4j
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+or
+dir
+
+
+
+add
+
+HTMLLayout.java
+file
+
+
+
+add
+
+AppenderSkeleton.java
+file
+
+
+
+add
+
+NDC.java
+file
+
+
+
+add
+
+lf5
+dir
+
+
+
+add
+
+Level.java
+file
+
+
+
+add
+
+PropertyConfigurator.java
+file
+
+
+
+add
+
+DailyRollingFileAppender.java
+file
+
+
+
+add
+
+DefaultCategoryFactory.java
+file
+
+
+
+add
+
+PatternLayout.java
+file
+
+
+
+add
+
+spi
+dir
+
+
+
+add
+
+LogManager.java
+file
+
+
+
+add
+
+Layout.java
+file
+
+
+
+add
+
+Category.java
+file
+
+
+
+add
+
+ConsoleAppender.java
+file
+
+
+
+add
+
+Priority.java
+file
+
+
+
+add
+
+jdbc
+dir
+
+
+
+add
+
+helpers
+dir
+
+
+
+add
+
+varia
+dir
+
+
+
+add
+
+DefaultThrowableRenderer.java
+file
+
+
+
+add
+
+TTCCLayout.java
+file
+
+
+
+add
+
+WriterAppender.java
+file
+
+
+
+add
+
+pattern
+dir
+
+
+
+add
+
+FileAppender.java
+file
+
+
+
+add
+
+Appender.java
+file
+
+
+
+add
+
+EnhancedPatternLayout.java
+file
+
+
+
+add
+
+nt
+dir
+
+
+
+add
+
+rewrite
+dir
+
+
+
+add
+
+MDC.java
+file
+
+
+
+add
+
+LogMF.java
+file
+
+
+
+add
+
+BasicConfigurator.java
+file
+
+
+
+add
+
+EnhancedThrowableRenderer.java
+file
+
+
+
+add
+
+net
+dir
+
+
+
+add
+
+LogSF.java
+file
+
+
+
+add
+
+chainsaw
+dir
+
+
+
+add
+
+jmx
+dir
+
+
+
+add
+
+Hierarchy.java
+file
+
+
+
+add
+
+package.html
+file
+
+
+
+add
+
+LogXF.java
+file
+
+
+
+add
+
+Logger.java
+file
+
+
+
+add
+
+xml
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+RollingFileAppender.java
+file
+
+
+
+add
+
+CategoryKey.java
+file
+
+
+
+add
+
+Dispatcher.java
+file
+
+
+
+add
+
+SimpleLayout.java
+file
+
+
+
+add
+
+AsyncAppender.java
+file
+
+
+
+add
+
+ProvisionNode.java
+file
+
+
+
+add
+

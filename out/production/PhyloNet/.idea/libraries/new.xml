@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="new">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/new/Jeigen-win-linux-32-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/new/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/new/jna-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

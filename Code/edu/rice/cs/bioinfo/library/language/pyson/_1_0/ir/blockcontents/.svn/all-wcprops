@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/763/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents
+END
+RichNewickAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/RichNewickAssignment.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/Parameter.java
+END
+ParameterIdentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterIdentList.java
+END
+ParameterIdentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterIdentSet.java
+END
+ParameterTaxonSetList.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/r/bioinfo/!svn/ver/763/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterTaxonSetList.java
+END
+ParameterAlgo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterAlgo.java
+END
+ParameterIdent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterIdent.java
+END
+SyntaxCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/172/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/SyntaxCommand.java
+END
+BlockContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/BlockContents.java
+END
+ParameterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterBase.java
+END
+AssignmentIdent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/AssignmentIdent.java
+END
+BlockContentsFactoryFromAST.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/r/bioinfo/!svn/ver/178/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/BlockContentsFactoryFromAST.java
+END
+ParameterTaxaMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterTaxaMap.java
+END
+ParameterQuote.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/pyson/_1_0/ir/blockcontents/ParameterQuote.java
+END

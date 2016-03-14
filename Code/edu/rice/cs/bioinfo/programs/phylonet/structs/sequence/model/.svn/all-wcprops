@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/sequence/model
+END
+SequenceAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/sequence/model/SequenceAlignment.java
+END
+SequenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/sequence/model/SequenceException.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/time/ohlc
+END
+OHLCSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/time/ohlc/OHLCSeries.java
+END
+OHLCItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/time/ohlc/OHLCItem.java
+END
+OHLC.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/time/ohlc/OHLC.java
+END
+OHLCSeriesCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/time/ohlc/OHLCSeriesCollection.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/data/time/ohlc/package.html
+END

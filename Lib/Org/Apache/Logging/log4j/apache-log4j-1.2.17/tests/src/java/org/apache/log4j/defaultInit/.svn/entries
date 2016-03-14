@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/tests/src/java/org/apache/log4j/defaultInit
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+TestCase4.java
+file
+
+
+
+add
+
+TestCase1.java
+file
+
+
+
+add
+
+TestCase2.java
+file
+
+
+
+add
+
+TestCase3.java
+file
+
+
+
+add
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures
+END
+Parameter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/Parameter.cs
+END
+Type.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/Type.cs
+END
+Enum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/Enum.cs
+END
+Function.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/Function.cs
+END
+FlowDirection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/FlowDirection.cs
+END
+Constant.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/Constant.cs
+END
+Delegate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Structures/Delegate.cs
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders
+END
+ImageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/ImageEncoder.java
+END
+KeypointPNGEncoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/KeypointPNGEncoderAdapter.java
+END
+ImageEncoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/ImageEncoderFactory.java
+END
+ImageFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/ImageFormat.java
+END
+SunPNGEncoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/SunPNGEncoderAdapter.java
+END
+SunJPEGEncoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/SunJPEGEncoderAdapter.java
+END
+EncoderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/EncoderUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/encoders/package.html
+END

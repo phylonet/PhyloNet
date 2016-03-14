@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/category
+END
+CategoryToPieDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/category/CategoryToPieDatasetTest.java
+END
+DefaultCategoryDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/category/DefaultCategoryDatasetTest.java
+END
+DefaultIntervalCategoryDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/category/DefaultIntervalCategoryDatasetTest.java
+END
+SlidingCategoryDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/category/SlidingCategoryDatasetTest.java
+END

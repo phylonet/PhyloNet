@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls
+END
+CustomCategoryURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/CustomCategoryURLGeneratorTest.java
+END
+CustomPieURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/CustomPieURLGeneratorTest.java
+END
+TimeSeriesURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/TimeSeriesURLGeneratorTest.java
+END
+CustomXYURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/CustomXYURLGeneratorTest.java
+END
+StandardCategoryURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/StandardCategoryURLGeneratorTest.java
+END
+StandardPieURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/StandardPieURLGeneratorTest.java
+END
+StandardXYURLGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/StandardXYURLGeneratorTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/urls/package.html
+END

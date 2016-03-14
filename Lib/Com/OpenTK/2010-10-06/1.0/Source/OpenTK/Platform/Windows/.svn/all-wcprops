@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows
+END
+WinRawMouse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinRawMouse.cs
+END
+WinWindowInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinWindowInfo.cs
+END
+WMInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WMInput.cs
+END
+WinDisplayDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinDisplayDevice.cs
+END
+WinGraphicsMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinGraphicsMode.cs
+END
+WinKeyMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinKeyMap.cs
+END
+WinFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinFactory.cs
+END
+WinGLContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinGLContext.cs
+END
+WinGLNative.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinGLNative.cs
+END
+WinMMJoystick.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinMMJoystick.cs
+END
+WinRawInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinRawInput.cs
+END
+WinRawKeyboard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WinRawKeyboard.cs
+END
+API.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/API.cs
+END
+WglHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Platform/Windows/WglHelper.cs
+END

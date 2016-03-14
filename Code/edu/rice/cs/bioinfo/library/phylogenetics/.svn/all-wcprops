@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/738/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics
+END
+FindPathLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/FindPathLength.java
+END
+PhyloGraph2.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/152/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/PhyloGraph2.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/179/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/Graph.java
+END
+PhyloEdge2.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/PhyloEdge2.java
+END
+IsLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/IsLeaf.java
+END
+MULTreeFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/232/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/MULTreeFactoryTest.java
+END
+MULTreeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/MULTreeFactory.java
+END
+AssignProbToUnnotatedHybridEdges.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/AssignProbToUnnotatedHybridEdges.java
+END
+GetNetworkNodeCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetNetworkNodeCount.java
+END
+AreSameTopology.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/AreSameTopology.java
+END
+UndirectedPhyloGraphDefault2.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/UndirectedPhyloGraphDefault2.java
+END
+GraphMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/232/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GraphMask.java
+END
+PhyloGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/PhyloGraph.java
+END
+GetInDegree.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/83/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetInDegree.java
+END
+DirectedPhyloGraphDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/156/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/DirectedPhyloGraphDefault.java
+END
+UndirectedPhyloGraphDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/UndirectedPhyloGraphDefault.java
+END
+IsNetworkNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/IsNetworkNode.java
+END
+GetDirectPredecessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/86/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetDirectPredecessors.java
+END
+GraphReadOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GraphReadOnly.java
+END
+AddReticulationEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/AddReticulationEdge.java
+END
+IsTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/IsTreeNode.java
+END
+GetNodesDFSOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/179/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetNodesDFSOrder.java
+END
+GraphValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GraphValidatorTest.java
+END
+GraphValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GraphValidator.java
+END
+DirectedPhyloGraphDefault2.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/156/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/DirectedPhyloGraphDefault2.java
+END
+GetNodesPostOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetNodesPostOrder.java
+END
+PhyloEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/PhyloEdge.java
+END
+NodeInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/NodeInjector.java
+END
+GetOutDegree.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetOutDegree.java
+END
+IsDestinationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/IsDestinationNode.java
+END
+FindRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/FindRoot.java
+END
+IsUltrametric.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/IsUltrametric.java
+END
+GetDirectSuccessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetDirectSuccessors.java
+END
+GraphFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/174/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GraphFactory.java
+END
+GetLeafs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GetLeafs.java
+END
+FindAllPredecessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/FindAllPredecessors.java
+END
+GraphBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/179/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/GraphBase.java
+END
+FindSuccessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/FindSuccessors.java
+END
+IsConnected.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/IsConnected.java
+END

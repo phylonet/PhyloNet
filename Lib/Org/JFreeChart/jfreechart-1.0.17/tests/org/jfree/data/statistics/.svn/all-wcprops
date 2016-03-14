@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics
+END
+DefaultMultiValueCategoryDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/DefaultMultiValueCategoryDatasetTest.java
+END
+RegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/RegressionTest.java
+END
+SimpleHistogramBinTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/SimpleHistogramBinTest.java
+END
+DefaultBoxAndWhiskerCategoryDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDatasetTest.java
+END
+BoxAndWhiskerCalculatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/BoxAndWhiskerCalculatorTest.java
+END
+HistogramDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/HistogramDatasetTest.java
+END
+DefaultBoxAndWhiskerXYDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/DefaultBoxAndWhiskerXYDatasetTest.java
+END
+HistogramBinTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/HistogramBinTest.java
+END
+BoxAndWhiskerItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/BoxAndWhiskerItemTest.java
+END
+MeanAndStandardDeviationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/MeanAndStandardDeviationTest.java
+END
+StatisticsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/StatisticsTest.java
+END
+DefaultStatisticalCategoryDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/DefaultStatisticalCategoryDatasetTest.java
+END
+SimpleHistogramDatasetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/SimpleHistogramDatasetTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/data/statistics/package.html
+END

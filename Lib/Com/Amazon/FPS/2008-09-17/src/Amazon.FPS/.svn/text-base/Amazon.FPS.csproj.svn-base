@@ -1,0 +1,180 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Amazon.FPS</RootNamespace>
+    <AssemblyName>Amazon.FPS</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <ProjectGuid>{6474AA01-68C5-3FB1-806D-59ABB1AE18D1}</ProjectGuid>
+    <PublishUrl>http://localhost/Amazon.FPS/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Amazon.FPS\AmazonFPS.cs" />
+    <Compile Include="Amazon.FPS\AmazonFPSClient.cs" />
+    <Compile Include="Amazon.FPS\AmazonFPSConfig.cs" />
+    <Compile Include="Amazon.FPS\AmazonFPSException.cs" />
+    <Compile Include="Amazon.FPS\Model\*.cs" />
+    <Compile Include="Amazon.FPS\Mock\*.cs" />
+    <Compile Include="Amazon.FPS\Util\*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Amazon.FPS\Mock\CancelTokenResponse.xml">
+      <LogicalName>CancelTokenResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\CancelResponse.xml">
+      <LogicalName>CancelResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\FundPrepaidResponse.xml">
+      <LogicalName>FundPrepaidResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetAccountActivityResponse.xml">
+      <LogicalName>GetAccountActivityResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetAccountBalanceResponse.xml">
+      <LogicalName>GetAccountBalanceResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetDebtBalanceResponse.xml">
+      <LogicalName>GetDebtBalanceResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetOutstandingDebtBalanceResponse.xml">
+      <LogicalName>GetOutstandingDebtBalanceResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetPrepaidBalanceResponse.xml">
+      <LogicalName>GetPrepaidBalanceResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetTokenByCallerResponse.xml">
+      <LogicalName>GetTokenByCallerResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\CancelSubscriptionAndRefundResponse.xml">
+      <LogicalName>CancelSubscriptionAndRefundResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetTokenUsageResponse.xml">
+      <LogicalName>GetTokenUsageResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetTokensResponse.xml">
+      <LogicalName>GetTokensResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetTotalPrepaidLiabilityResponse.xml">
+      <LogicalName>GetTotalPrepaidLiabilityResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetTransactionResponse.xml">
+      <LogicalName>GetTransactionResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetTransactionStatusResponse.xml">
+      <LogicalName>GetTransactionStatusResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\GetPaymentInstructionResponse.xml">
+      <LogicalName>GetPaymentInstructionResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\InstallPaymentInstructionResponse.xml">
+      <LogicalName>InstallPaymentInstructionResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\PayResponse.xml">
+      <LogicalName>PayResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\RefundResponse.xml">
+      <LogicalName>RefundResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\ReserveResponse.xml">
+      <LogicalName>ReserveResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\SettleResponse.xml">
+      <LogicalName>SettleResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\SettleDebtResponse.xml">
+      <LogicalName>SettleDebtResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\WriteOffDebtResponse.xml">
+      <LogicalName>WriteOffDebtResponse.xml</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.FPS\Mock\VerifySignatureResponse.xml">
+      <LogicalName>VerifySignatureResponse.xml</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

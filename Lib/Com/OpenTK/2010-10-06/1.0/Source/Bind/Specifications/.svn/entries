@@ -1,0 +1,126 @@
+10
+
+dir
+66
+https://svn.rice.edu/r/bioinfo/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications
+https://svn.rice.edu/r/bioinfo
+
+
+
+2011-08-24T00:42:38.442435Z
+8
+barnett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+CL10
+dir
+
+csharp.tm
+file
+
+
+
+
+2012-03-12T18:43:34.000000Z
+a5b9b292cbce1a5d3ce311c5ff3f6f50
+2011-08-24T00:42:38.442435Z
+8
+barnett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3341
+
+License.txt
+file
+
+
+
+
+2012-03-12T18:43:34.000000Z
+2c26b31b48bb9ae5b6a7e66c0b2fb86b
+2011-08-24T00:42:38.442435Z
+8
+barnett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1230
+
+GL2
+dir
+
+GL3
+dir
+
+Glu
+dir
+
+Docs
+dir
+
+ES10
+dir
+
+ES11
+dir
+
+ES20
+dir
+
+Wgl
+dir
+
+Glx
+dir
+

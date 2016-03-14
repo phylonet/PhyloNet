@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/contribs/ThomasFenner
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+Log4JTest.java
+file
+
+
+
+add
+
+JDBCConnectionHandler.java
+file
+
+
+
+add
+
+JDBCAppender.java
+file
+
+
+
+add
+
+JDBCLogger.java
+file
+
+
+
+add
+
+code_example1.java
+file
+
+
+
+add
+
+code_example2.java
+file
+
+
+
+add
+
+JDBCIDHandler.java
+file
+
+
+
+add
+
+configfile_example.txt
+file
+
+
+
+add
+

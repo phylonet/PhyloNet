@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial
+END
+StandardDialScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/StandardDialScale.java
+END
+DialValueIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialValueIndicator.java
+END
+StandardDialFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/StandardDialFrame.java
+END
+DialLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialLayer.java
+END
+StandardDialRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/StandardDialRange.java
+END
+DialPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialPlot.java
+END
+DialTextAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialTextAnnotation.java
+END
+DialBackground.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialBackground.java
+END
+DialPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialPointer.java
+END
+ArcDialFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/ArcDialFrame.java
+END
+DialLayerChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialLayerChangeEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/package.html
+END
+DialScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialScale.java
+END
+DialLayerChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialLayerChangeListener.java
+END
+DialFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialFrame.java
+END
+AbstractDialLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/AbstractDialLayer.java
+END
+DialCap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/dial/DialCap.java
+END

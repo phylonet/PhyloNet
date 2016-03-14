@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot
+END
+CombinedDomainCategoryPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CombinedDomainCategoryPlot.java
+END
+LocalizationBundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_de.properties
+END
+LocalizationBundle_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_ja.properties
+END
+MeterPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/MeterPlot.java
+END
+DatasetRenderingOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/DatasetRenderingOrder.java
+END
+ContourPlotUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ContourPlotUtilities.java
+END
+GreyPalette.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/GreyPalette.java
+END
+ContourPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ContourPlot.java
+END
+CombinedDomainXYPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CombinedDomainXYPlot.java
+END
+PlotOrientation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PlotOrientation.java
+END
+CombinedRangeCategoryPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CombinedRangeCategoryPlot.java
+END
+WaferMapPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/WaferMapPlot.java
+END
+LocalizationBundle_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_ru.properties
+END
+Zoomable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/Zoomable.java
+END
+PlotUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PlotUtilities.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/package.html
+END
+PlotState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PlotState.java
+END
+Pannable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/Pannable.java
+END
+FastScatterPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/FastScatterPlot.java
+END
+SeriesRenderingOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/SeriesRenderingOrder.java
+END
+LocalizationBundle_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_nl.properties
+END
+MultiplePiePlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/MultiplePiePlot.java
+END
+LocalizationBundle_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_pl.properties
+END
+DialShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/DialShape.java
+END
+AbstractPieLabelDistributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/AbstractPieLabelDistributor.java
+END
+Crosshair.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/Crosshair.java
+END
+ColorPalette.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ColorPalette.java
+END
+RingPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/RingPlot.java
+END
+XYPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/XYPlot.java
+END
+ValueAxisPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ValueAxisPlot.java
+END
+CompassPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CompassPlot.java
+END
+JThermometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/JThermometer.java
+END
+PieLabelRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PieLabelRecord.java
+END
+ValueMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ValueMarker.java
+END
+LocalizationBundle_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_zh_CN.properties
+END
+DrawingSupplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/DrawingSupplier.java
+END
+RainbowPalette.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/RainbowPalette.java
+END
+MeterInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/MeterInterval.java
+END
+LocalizationBundle_cs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_cs.properties
+END
+DefaultDrawingSupplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/DefaultDrawingSupplier.java
+END
+LocalizationBundle_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_es.properties
+END
+IntervalMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/IntervalMarker.java
+END
+ThermometerPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ThermometerPlot.java
+END
+PolarAxisLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PolarAxisLocation.java
+END
+CategoryCrosshairState.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CategoryCrosshairState.java
+END
+CrosshairState.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CrosshairState.java
+END
+PiePlot3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PiePlot3D.java
+END
+LocalizationBundle_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_pt_PT.properties
+END
+PieLabelDistributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PieLabelDistributor.java
+END
+PolarPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PolarPlot.java
+END
+PiePlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PiePlot.java
+END
+PieLabelLinkStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PieLabelLinkStyle.java
+END
+CategoryPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CategoryPlot.java
+END
+PiePlotState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PiePlotState.java
+END
+CombinedRangeXYPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CombinedRangeXYPlot.java
+END
+Plot.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/Plot.java
+END
+XYCrosshairState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/XYCrosshairState.java
+END
+CategoryMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/CategoryMarker.java
+END
+Marker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/Marker.java
+END
+SpiderWebPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/SpiderWebPlot.java
+END
+LocalizationBundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle_fr.properties
+END
+ContourValuePlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/ContourValuePlot.java
+END
+PlotRenderingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/PlotRenderingInfo.java
+END
+LocalizationBundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/plot/LocalizationBundle.properties
+END

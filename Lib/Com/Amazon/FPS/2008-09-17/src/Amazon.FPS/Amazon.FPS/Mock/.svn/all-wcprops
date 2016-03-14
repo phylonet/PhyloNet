@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock
+END
+FundPrepaidResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/FundPrepaidResponse.xml
+END
+GetAccountBalanceResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetAccountBalanceResponse.xml
+END
+GetTokensResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetTokensResponse.xml
+END
+GetOutstandingDebtBalanceResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetOutstandingDebtBalanceResponse.xml
+END
+GetTokenUsageResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetTokenUsageResponse.xml
+END
+InstallPaymentInstructionResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/InstallPaymentInstructionResponse.xml
+END
+GetAccountActivityResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetAccountActivityResponse.xml
+END
+ReserveResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/ReserveResponse.xml
+END
+GetPaymentInstructionResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetPaymentInstructionResponse.xml
+END
+CancelSubscriptionAndRefundResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/CancelSubscriptionAndRefundResponse.xml
+END
+RefundResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/RefundResponse.xml
+END
+GetDebtBalanceResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetDebtBalanceResponse.xml
+END
+WriteOffDebtResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/WriteOffDebtResponse.xml
+END
+CancelResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/CancelResponse.xml
+END
+GetTransactionResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetTransactionResponse.xml
+END
+CancelTokenResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/CancelTokenResponse.xml
+END
+VerifySignatureResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/VerifySignatureResponse.xml
+END
+ErrorResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/ErrorResponse.xml
+END
+GetTransactionStatusResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetTransactionStatusResponse.xml
+END
+PayResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/PayResponse.xml
+END
+GetPrepaidBalanceResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetPrepaidBalanceResponse.xml
+END
+GetTotalPrepaidLiabilityResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetTotalPrepaidLiabilityResponse.xml
+END
+GetTokenByCallerResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/GetTokenByCallerResponse.xml
+END
+AmazonFPSMock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/AmazonFPSMock.cs
+END
+SettleDebtResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/SettleDebtResponse.xml
+END
+SettleResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Mock/SettleResponse.xml
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view
+END
+mxPerimeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxPerimeter.java
+END
+mxGraphView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxGraphView.java
+END
+mxGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxGraph.java
+END
+mxConnectionConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxConnectionConstraint.java
+END
+mxTemporaryCellStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxTemporaryCellStates.java
+END
+mxLayoutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxLayoutManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/package.html
+END
+mxSwimlaneManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxSwimlaneManager.java
+END
+mxCellState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxCellState.java
+END
+mxEdgeStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxEdgeStyle.java
+END
+mxSpaceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxSpaceManager.java
+END
+mxMultiplicity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxMultiplicity.java
+END
+mxGraphSelectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxGraphSelectionModel.java
+END
+mxStylesheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxStylesheet.java
+END
+mxStyleRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/view/mxStyleRegistry.java
+END

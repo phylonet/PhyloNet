@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/tests/input/xml
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+fallback1.xml
+file
+
+
+
+add
+
+testReset.xml
+file
+
+
+
+add
+
+customLevel1.xml
+file
+
+
+
+add
+
+smtpAppender1.xml
+file
+
+
+
+add
+
+DOMTest4_A1.xml
+file
+
+
+
+add
+
+customLevel2.xml
+file
+
+
+
+add
+
+DOMTest4_A2.xml
+file
+
+
+
+add
+
+customLevel3.xml
+file
+
+
+
+add
+
+customLevel4.xml
+file
+
+
+
+add
+
+categoryfactory1.xml
+file
+
+
+
+add
+
+categoryfactory2.xml
+file
+
+
+
+add
+
+loggerfactory1.xml
+file
+
+
+
+add
+
+customLogger1.xml
+file
+
+
+
+add
+
+DOMTestCase1.xml
+file
+
+
+
+add
+
+customLogger2.xml
+file
+
+
+
+add
+
+customLogger3.xml
+file
+
+
+
+add
+
+SocketAppenderTestConfig.xml
+file
+
+
+
+add
+
+throwableRenderer1.xml
+file
+
+
+
+add
+
+DOMTest4.xml
+file
+
+
+
+add
+
+defaultInit.xml
+file
+
+
+
+add
+

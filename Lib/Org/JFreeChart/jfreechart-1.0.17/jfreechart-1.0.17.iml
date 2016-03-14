@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/experimental" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/swt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="0.9.51" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="junit-4.9b31" level="project" />
+    <orderEntry type="library" name="junit-4.9b3" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="0.9.5" level="project" />
+  </component>
+</module>

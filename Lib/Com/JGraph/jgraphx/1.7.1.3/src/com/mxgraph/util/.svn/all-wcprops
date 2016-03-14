@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util
+END
+mxSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxSpline.java
+END
+mxUndoableEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxUndoableEdit.java
+END
+mxUndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxUndoManager.java
+END
+mxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxUtils.java
+END
+mxEventSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxEventSource.java
+END
+mxRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxRectangle.java
+END
+mxCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxCellRenderer.java
+END
+mxEventObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxEventObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/package.html
+END
+mxResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxResources.java
+END
+mxImageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxImageBundle.java
+END
+mxConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxConstants.java
+END
+mxSpline1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxSpline1D.java
+END
+mxLightweightLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxLightweightLabel.java
+END
+mxEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxEvent.java
+END
+mxImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxImage.java
+END
+mxCurve.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxCurve.java
+END
+mxBase64.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxBase64.java
+END
+mxLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxLine.java
+END
+mxPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/util/mxPoint.java
+END

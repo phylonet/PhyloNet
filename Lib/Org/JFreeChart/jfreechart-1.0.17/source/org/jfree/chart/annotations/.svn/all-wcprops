@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations
+END
+XYTextAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYTextAnnotation.java
+END
+XYLineAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYLineAnnotation.java
+END
+XYPolygonAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYPolygonAnnotation.java
+END
+XYBoxAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYBoxAnnotation.java
+END
+CategoryAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/CategoryAnnotation.java
+END
+CategoryPointerAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/CategoryPointerAnnotation.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/Annotation.java
+END
+XYShapeAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYShapeAnnotation.java
+END
+CategoryTextAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/CategoryTextAnnotation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/package.html
+END
+TextAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/TextAnnotation.java
+END
+AbstractXYAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/AbstractXYAnnotation.java
+END
+CategoryLineAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/CategoryLineAnnotation.java
+END
+XYAnnotationBoundsInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYAnnotationBoundsInfo.java
+END
+XYDataImageAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYDataImageAnnotation.java
+END
+XYAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYAnnotation.java
+END
+XYPointerAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYPointerAnnotation.java
+END
+XYDrawableAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYDrawableAnnotation.java
+END
+XYTitleAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYTitleAnnotation.java
+END
+XYImageAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/XYImageAnnotation.java
+END
+AbstractAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/source/org/jfree/chart/annotations/AbstractAnnotation.java
+END

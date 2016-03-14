@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/688/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/pseudomcmc
+END
+PMHGenerationLimitRestartSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/pseudomcmc/PMHGenerationLimitRestartSearcher.java
+END
+PseudoMetropolisHastingsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/688/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/pseudomcmc/PseudoMetropolisHastingsBase.java
+END
+PseudoMetropolisHastingsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/r/bioinfo/!svn/ver/115/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/pseudomcmc/PseudoMetropolisHastingsResult.java
+END
+PseudoMetropolisHastings.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/pseudomcmc/PseudoMetropolisHastings.java
+END

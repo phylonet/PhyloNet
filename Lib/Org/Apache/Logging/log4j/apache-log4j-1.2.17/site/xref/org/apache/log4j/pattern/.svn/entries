@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/site/xref/org/apache/log4j/pattern
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+LoggingEventPatternConverter.html
+file
+
+
+
+add
+
+CachedDateFormat.html
+file
+
+
+
+add
+
+RelativeTimePatternConverter.html
+file
+
+
+
+add
+
+FullLocationPatternConverter.html
+file
+
+
+
+add
+
+LiteralPatternConverter.html
+file
+
+
+
+add
+
+ThrowableInformationPatternConverter.html
+file
+
+
+
+add
+
+IntegerPatternConverter.html
+file
+
+
+
+add
+
+LogEvent.html
+file
+
+
+
+add
+
+FormattingInfo.html
+file
+
+
+
+add
+
+ClassNamePatternConverter.html
+file
+
+
+
+add
+
+FileLocationPatternConverter.html
+file
+
+
+
+add
+
+LineSeparatorPatternConverter.html
+file
+
+
+
+add
+
+MethodLocationPatternConverter.html
+file
+
+
+
+add
+
+LoggerPatternConverter.html
+file
+
+
+
+add
+
+LineLocationPatternConverter.html
+file
+
+
+
+add
+
+SequenceNumberPatternConverter.html
+file
+
+
+
+add
+
+PropertiesPatternConverter.html
+file
+
+
+
+add
+
+BridgePatternConverter.html
+file
+
+
+
+add
+
+package-frame.html
+file
+
+
+
+add
+
+package-summary.html
+file
+
+
+
+add
+
+PatternParser.html
+file
+
+
+
+add
+
+NDCPatternConverter.html
+file
+
+
+
+add
+
+ThreadPatternConverter.html
+file
+
+
+
+add
+
+LevelPatternConverter.html
+file
+
+
+
+add
+
+NameAbbreviator.html
+file
+
+
+
+add
+
+DatePatternConverter.html
+file
+
+
+
+add
+
+FileDatePatternConverter.html
+file
+
+
+
+add
+
+PatternConverter.html
+file
+
+
+
+add
+
+NamePatternConverter.html
+file
+
+
+
+add
+
+BridgePatternParser.html
+file
+
+
+
+add
+
+MessagePatternConverter.html
+file
+
+
+
+add
+

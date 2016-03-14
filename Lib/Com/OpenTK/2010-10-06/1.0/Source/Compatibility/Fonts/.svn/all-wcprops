@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts
+END
+IFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/IFont.cs
+END
+VboTextPrinter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/VboTextPrinter.cs
+END
+TextHandle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/TextHandle.cs
+END
+DisplayListTextHandle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/DisplayListTextHandle.cs
+END
+IPrinterImplementation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/IPrinterImplementation.cs
+END
+Glyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/Glyph.cs
+END
+TextureFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/TextureFont.cs
+END
+DisplayListTextPrinter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Fonts/DisplayListTextPrinter.cs
+END

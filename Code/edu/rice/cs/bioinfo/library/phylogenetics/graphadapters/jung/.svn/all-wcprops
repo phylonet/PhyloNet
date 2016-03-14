@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/graphadapters/jung
+END
+JungGraphToGraphAdapterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/179/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/graphadapters/jung/JungGraphToGraphAdapterBase.java
+END
+DirectedGraphToGraphAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/graphadapters/jung/DirectedGraphToGraphAdapter.java
+END
+UndirectedGraphToGraphAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/graphadapters/jung/UndirectedGraphToGraphAdapter.java
+END

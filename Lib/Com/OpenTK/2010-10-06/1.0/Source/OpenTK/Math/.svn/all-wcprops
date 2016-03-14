@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math
+END
+Vector2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector2.cs
+END
+Quaternion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Quaternion.cs
+END
+BezierCurve.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/BezierCurve.cs
+END
+Vector3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector3.cs
+END
+Vector4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector4.cs
+END
+Matrix4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Matrix4.cs
+END
+Vector2d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector2d.cs
+END
+Quaterniond.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Quaterniond.cs
+END
+Point.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Point.cs
+END
+MathHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/MathHelper.cs
+END
+Vector3d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector3d.cs
+END
+Vector4d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector4d.cs
+END
+Matrix3d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Matrix3d.cs
+END
+BezierCurveCubic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/BezierCurveCubic.cs
+END
+Matrix4d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Matrix4d.cs
+END
+Vector2h.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector2h.cs
+END
+Vector3h.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector3h.cs
+END
+BezierCurveQuadric.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/BezierCurveQuadric.cs
+END
+Vector4h.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Vector4h.cs
+END
+Rectangle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Rectangle.cs
+END
+Functions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Functions.cs
+END
+Size.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Size.cs
+END
+Half.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Half.cs
+END
+Box2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Math/Box2.cs
+END

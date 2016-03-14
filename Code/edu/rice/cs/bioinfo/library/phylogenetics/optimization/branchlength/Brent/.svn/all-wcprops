@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/optimization/branchlength/Brent
+END
+BranchLengthOptimizerBrentAlgo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/r/bioinfo/!svn/ver/154/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/optimization/branchlength/Brent/BranchLengthOptimizerBrentAlgo.java
+END
+BranchLengthOptimizerBrentAlgoApache.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/optimization/branchlength/Brent/BranchLengthOptimizerBrentAlgoApache.java
+END
+BranchLengthOptimizerBrentAlgoApacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/r/bioinfo/!svn/ver/154/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/optimization/branchlength/Brent/BranchLengthOptimizerBrentAlgoApacheTest.java
+END

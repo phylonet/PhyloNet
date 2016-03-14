@@ -1,0 +1,86 @@
+10
+
+dir
+747
+https://svn.rice.edu/r/bioinfo/Lib/Jeigen
+https://svn.rice.edu/r/bioinfo
+
+
+
+2014-08-18T17:25:06.020665Z
+747
+yy9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+jna-4.0.0.jar
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+jna-3.4.1.jar
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Original
+dir
+
+native
+dir
+
+
+
+add
+
+Jeigen.jar
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+DavinCi
+dir
+
+BioU
+dir
+

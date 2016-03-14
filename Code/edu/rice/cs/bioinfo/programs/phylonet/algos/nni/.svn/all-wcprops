@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/nni
+END
+NearestNeighborInterchangeSearcherBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/nni/NearestNeighborInterchangeSearcherBase.java
+END
+NNISearcherNeighborsExpansiveInPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/nni/NNISearcherNeighborsExpansiveInPlace.java
+END
+NNISearcherNeighborsExpansiveInPlaceJUNG.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/nni/NNISearcherNeighborsExpansiveInPlaceJUNG.java
+END
+NearestNeighborInterchangeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/77/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/nni/NearestNeighborInterchangeResult.java
+END
+NearestNeighborInterchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/nni/NearestNeighborInterchange.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/358/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa
+END
+NetworkInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/124/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/NetworkInspector.java
+END
+ContextAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/358/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/ContextAnalyser.java
+END
+ContextAnalyserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/ContextAnalyserTest.java
+END
+SyntaxNetworkInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/124/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/SyntaxNetworkInspector.java
+END
+ASTNetworkInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/229/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/ASTNetworkInspector.java
+END
+ASTNetworkInspectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/124/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/ASTNetworkInspectorTest.java
+END
+ASTContextAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/ASTContextAnalyser.java
+END
+SyntaxNetworkInspectorAllUnlabeled.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/r/bioinfo/!svn/ver/124/Code/Java/Unstable/edu/rice/cs/bioinfo/library/language/richnewick/_1_0/reading/csa/SyntaxNetworkInspectorAllUnlabeled.java
+END

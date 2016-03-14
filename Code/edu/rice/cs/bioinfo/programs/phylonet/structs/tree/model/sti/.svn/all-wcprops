@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/1163/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/sti
+END
+STITree.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/741/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/sti/STITree.java
+END
+STITreeCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/688/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/sti/STITreeCluster.java
+END
+STITreeBipartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/sti/STITreeBipartition.java
+END
+STINode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/1163/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/model/sti/STINode.java
+END

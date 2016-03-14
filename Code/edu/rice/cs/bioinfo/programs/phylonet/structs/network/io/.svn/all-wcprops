@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/1060/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/io
+END
+ExNewickReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/io/ExNewickReader.java
+END
+RnNewickPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/1060/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/io/RnNewickPrinter.java
+END
+HgtReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/io/HgtReader.java
+END
+ExNewickException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/io/ExNewickException.java
+END

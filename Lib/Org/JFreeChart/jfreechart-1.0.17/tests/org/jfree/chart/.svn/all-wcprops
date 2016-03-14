@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart
+END
+PieChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/PieChartTest.java
+END
+LineChart3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/LineChart3DTest.java
+END
+ScatterPlotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/ScatterPlotTest.java
+END
+StrokeMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/StrokeMapTest.java
+END
+StandardChartThemeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/StandardChartThemeTest.java
+END
+XYStepAreaChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/XYStepAreaChartTest.java
+END
+XYBarChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/XYBarChartTest.java
+END
+LineChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/LineChartTest.java
+END
+StackedBarChart3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/StackedBarChart3DTest.java
+END
+LegendItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/LegendItemTest.java
+END
+XYStepChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/XYStepChartTest.java
+END
+HashUtilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/HashUtilitiesTest.java
+END
+StackedBarChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/StackedBarChartTest.java
+END
+TimeSeriesChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/TimeSeriesChartTest.java
+END
+GanttChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/GanttChartTest.java
+END
+WaterfallChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/WaterfallChartTest.java
+END
+PaintMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/PaintMapTest.java
+END
+XYAreaChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/XYAreaChartTest.java
+END
+TestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/TestUtilities.java
+END
+ChartRenderingInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/ChartRenderingInfoTest.java
+END
+BarChart3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/BarChart3DTest.java
+END
+JFreeChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/JFreeChartTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/package.html
+END
+ChartPanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/ChartPanelTest.java
+END
+BarChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/BarChartTest.java
+END
+PieChart3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/PieChart3DTest.java
+END
+StackedAreaChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/StackedAreaChartTest.java
+END
+LegendItemCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/LegendItemCollectionTest.java
+END
+XYLineChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/XYLineChartTest.java
+END
+AreaChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/AreaChartTest.java
+END
+MeterChartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/MeterChartTest.java
+END

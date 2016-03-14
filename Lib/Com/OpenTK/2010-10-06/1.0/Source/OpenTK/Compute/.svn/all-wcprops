@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute
+END
+CLHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CLHelper.cs
+END
+Device.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Device.cs
+END
+Kernel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Kernel.cs
+END
+ComputeContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/ComputeContext.cs
+END
+Event.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Event.cs
+END
+Profiler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Profiler.cs
+END
+CommandQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/CommandQueue.cs
+END
+Sampler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Sampler.cs
+END
+Platform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Platform.cs
+END
+Configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Configuration.cs
+END
+Enums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Enums.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Program.cs
+END
+Structs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Structs.cs
+END
+Memory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Compute/Memory.cs
+END

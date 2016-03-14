@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN NETWORKS;
+
+Network tree1 = ((1,4,2));
+Network tree2 = ((1,2),(4,3));
+
+END;
+
+BEGIN SO;
+
+jkadjfklajdfklja
+dfjsdk
+fja
+
+
+
+END;
+
+BEGIN PHYLONET;
+
+SymmetricDifference tree1 tree2;
+
+END;
+===
+
+===
+
+
+Error at [22,27]: Taxon '3' in network 'tree2' does not appear in the network 'tree1'.

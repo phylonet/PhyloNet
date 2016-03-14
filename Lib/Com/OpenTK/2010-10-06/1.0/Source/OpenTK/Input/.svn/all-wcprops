@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input
+END
+InputDriver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/InputDriver.cs
+END
+IMouseDriver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/IMouseDriver.cs
+END
+JoystickDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/JoystickDevice.cs
+END
+KeyboardDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/KeyboardDevice.cs
+END
+MouseButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/MouseButton.cs
+END
+IJoystickDriver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/IJoystickDriver.cs
+END
+IInputDriver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/IInputDriver.cs
+END
+IKeyboardDriver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/IKeyboardDriver.cs
+END
+Mouse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/Mouse.cs
+END
+KeyboardKeyEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/KeyboardKeyEventArgs.cs
+END
+Key.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/Key.cs
+END
+IInputDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/IInputDevice.cs
+END
+MouseState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/MouseState.cs
+END
+GamePad.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/GamePad.cs
+END
+GamePadState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/GamePadState.cs
+END
+Keyboard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/Keyboard.cs
+END
+KeyboardState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/KeyboardState.cs
+END
+MouseDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/OpenTK/Input/MouseDevice.cs
+END

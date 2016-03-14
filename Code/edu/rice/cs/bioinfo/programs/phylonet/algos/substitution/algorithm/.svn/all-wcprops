@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/1021/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm
+END
+Felsenstein.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/1021/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm/Felsenstein.java
+END
+MultithreadedNucleotideProbabilityAlgorithmPrecompute.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm/MultithreadedNucleotideProbabilityAlgorithmPrecompute.java
+END
+NucleotideProbabilityAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm/NucleotideProbabilityAlgorithm.java
+END
+FelsensteinAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/999/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm/FelsensteinAlgorithm.java
+END
+FelsensteinAlgorithmExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/999/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm/FelsensteinAlgorithmExtended.java
+END
+IntegrationAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/algorithm/IntegrationAlgorithm.java
+END

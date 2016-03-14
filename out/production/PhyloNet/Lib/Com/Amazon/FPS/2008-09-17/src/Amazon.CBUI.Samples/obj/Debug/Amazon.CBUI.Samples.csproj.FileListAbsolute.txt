@@ -1,0 +1,7 @@
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\bin\Debug\Amazon.CBUI.Samples.exe
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\bin\Debug\Amazon.CBUI.Samples.pdb
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\bin\Debug\Amazon.CBUI.dll
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\bin\Debug\Amazon.CBUI.pdb
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\obj\Debug\Amazon.CBUI.Samples.exe
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.CBUI.Samples\obj\Debug\Amazon.CBUI.Samples.pdb

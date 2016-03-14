@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java bindings">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Org/copasi/java bindings/copasi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Org/copasi/java bindings/copasi_gui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

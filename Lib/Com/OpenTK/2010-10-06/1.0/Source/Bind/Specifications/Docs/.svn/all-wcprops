@@ -1,0 +1,2027 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs
+END
+glRect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glRect.xml
+END
+glResetHistogram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glResetHistogram.xml
+END
+glDeleteQueries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDeleteQueries.xml
+END
+glCopyConvolutionFilter1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyConvolutionFilter1D.xml
+END
+glXGetContextIDEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetContextIDEXT.xml
+END
+gluNextContour.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNextContour.xml
+END
+glGetAttribLocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetAttribLocation.xml
+END
+glCompileShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompileShader.xml
+END
+glXGetCurrentContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetCurrentContext.xml
+END
+gluDisk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluDisk.xml
+END
+gluNewNurbsRenderer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNewNurbsRenderer.xml
+END
+gluScaleImage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluScaleImage.xml
+END
+glVertexAttribPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glVertexAttribPointer.xml
+END
+glEnable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEnable.xml
+END
+glShaderSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glShaderSource.xml
+END
+gluLoadSamplingMatrices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluLoadSamplingMatrices.xml
+END
+glCompressedTexSubImage2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompressedTexSubImage2D.xml
+END
+gluQuadricOrientation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluQuadricOrientation.xml
+END
+glPolygonMode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPolygonMode.xml
+END
+glSampleCoverage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glSampleCoverage.xml
+END
+glGetMaterial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetMaterial.xml
+END
+gluQuadricTexture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluQuadricTexture.xml
+END
+glIsProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsProgram.xml
+END
+glEvalMesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEvalMesh.xml
+END
+glGetShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetShader.xml
+END
+glGetLight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetLight.xml
+END
+glTexEnv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexEnv.xml
+END
+glGet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGet.xml
+END
+glGetConvolutionParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetConvolutionParameter.xml
+END
+glXIntro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXIntro.xml
+END
+gluNurbsProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNurbsProperty.xml
+END
+glXWaitX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXWaitX.xml
+END
+glNewList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glNewList.xml
+END
+glClear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClear.xml
+END
+glInitNames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glInitNames.xml
+END
+gluCheckExtension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluCheckExtension.xml
+END
+glGetTexParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetTexParameter.xml
+END
+ToInlineDocs.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/ToInlineDocs.xslt
+END
+glTexSubImage3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexSubImage3D.xml
+END
+glShadeModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glShadeModel.xml
+END
+glXGetCurrentReadDrawable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetCurrentReadDrawable.xml
+END
+gluGetTessProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluGetTessProperty.xml
+END
+glUniform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glUniform.xml
+END
+gluUnProject4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluUnProject4.xml
+END
+glPointSize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPointSize.xml
+END
+glLineWidth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLineWidth.xml
+END
+glGetCompressedTexImage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetCompressedTexImage.xml
+END
+glSeparableFilter2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glSeparableFilter2D.xml
+END
+glCopyColorSubTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyColorSubTable.xml
+END
+gluNurbsCallback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNurbsCallback.xml
+END
+gluProject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluProject.xml
+END
+glResetMinmax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glResetMinmax.xml
+END
+gluPartialDisk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluPartialDisk.xml
+END
+glXGetClientString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetClientString.xml
+END
+glCopyTexSubImage1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyTexSubImage1D.xml
+END
+glBindTexture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBindTexture.xml
+END
+gluDeleteQuadric.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluDeleteQuadric.xml
+END
+glMapBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMapBuffer.xml
+END
+glIsList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsList.xml
+END
+glGenQueries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGenQueries.xml
+END
+glSelectBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glSelectBuffer.xml
+END
+glXCreatePixmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCreatePixmap.xml
+END
+glConvolutionFilter1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glConvolutionFilter1D.xml
+END
+glBindAttribLocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBindAttribLocation.xml
+END
+glCompressedTexImage2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompressedTexImage2D.xml
+END
+glDetachShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDetachShader.xml
+END
+glGetPixelMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetPixelMap.xml
+END
+glGetVertexAttrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetVertexAttrib.xml
+END
+glCopyTexImage1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyTexImage1D.xml
+END
+glScissor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glScissor.xml
+END
+glPixelZoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPixelZoom.xml
+END
+glColorTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColorTable.xml
+END
+gluDeleteNurbsRenderer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluDeleteNurbsRenderer.xml
+END
+glMinmax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMinmax.xml
+END
+glTexImage3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexImage3D.xml
+END
+glActiveTexture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glActiveTexture.xml
+END
+glEdgeFlagPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEdgeFlagPointer.xml
+END
+gluPickMatrix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluPickMatrix.xml
+END
+glIsQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsQuery.xml
+END
+gluTessVertex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessVertex.xml
+END
+glBufferData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBufferData.xml
+END
+glFogCoordPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFogCoordPointer.xml
+END
+glPrioritizeTextures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPrioritizeTextures.xml
+END
+glIndexPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIndexPointer.xml
+END
+glXDestroyWindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXDestroyWindow.xml
+END
+gluQuadricDrawStyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluQuadricDrawStyle.xml
+END
+glGetBufferSubData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetBufferSubData.xml
+END
+glViewport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glViewport.xml
+END
+gluTessBeginContour.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessBeginContour.xml
+END
+gluNurbsCallbackData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNurbsCallbackData.xml
+END
+glLightModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLightModel.xml
+END
+glGetTexGen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetTexGen.xml
+END
+glCreateShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCreateShader.xml
+END
+glCreateProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCreateProgram.xml
+END
+glEdgeFlag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEdgeFlag.xml
+END
+glGetBufferPointerv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetBufferPointerv.xml
+END
+glLoadTransposeMatrix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLoadTransposeMatrix.xml
+END
+gluErrorString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluErrorString.xml
+END
+glCopyConvolutionFilter2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyConvolutionFilter2D.xml
+END
+glGetBufferParameteriv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetBufferParameteriv.xml
+END
+glGetActiveUniform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetActiveUniform.xml
+END
+glXGetFBConfigAttrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetFBConfigAttrib.xml
+END
+glXQueryServerString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryServerString.xml
+END
+gluBeginPolygon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBeginPolygon.xml
+END
+gluGetNurbsProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluGetNurbsProperty.xml
+END
+glInterleavedArrays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glInterleavedArrays.xml
+END
+glGetShaderSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetShaderSource.xml
+END
+gluNewQuadric.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNewQuadric.xml
+END
+glCompressedTexSubImage3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompressedTexSubImage3D.xml
+END
+glGetError.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetError.xml
+END
+glMultiDrawArrays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMultiDrawArrays.xml
+END
+glXGetConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetConfig.xml
+END
+glRotate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glRotate.xml
+END
+glCopyPixels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyPixels.xml
+END
+glXQueryDrawable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryDrawable.xml
+END
+glStencilFuncSeparate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glStencilFuncSeparate.xml
+END
+glXQueryContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryContext.xml
+END
+gluBuild3DMipmaps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBuild3DMipmaps.xml
+END
+glXQueryVersion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryVersion.xml
+END
+glGetQueryiv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetQueryiv.xml
+END
+glMultTransposeMatrix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMultTransposeMatrix.xml
+END
+glXCopyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCopyContext.xml
+END
+glIndex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIndex.xml
+END
+glGetTexEnv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetTexEnv.xml
+END
+glGenTextures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGenTextures.xml
+END
+glGetMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetMap.xml
+END
+gluPerspective.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluPerspective.xml
+END
+glDeleteBuffers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDeleteBuffers.xml
+END
+glColorPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColorPointer.xml
+END
+glXWaitGL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXWaitGL.xml
+END
+glFinish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFinish.xml
+END
+glDeleteLists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDeleteLists.xml
+END
+glRasterPos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glRasterPos.xml
+END
+glBlendColor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBlendColor.xml
+END
+glUseProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glUseProgram.xml
+END
+glIsEnabled.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsEnabled.xml
+END
+glColorTableParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColorTableParameter.xml
+END
+gluNurbsSurface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNurbsSurface.xml
+END
+glTexCoordPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexCoordPointer.xml
+END
+glLineStipple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLineStipple.xml
+END
+glAccum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glAccum.xml
+END
+glGetMinmaxParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetMinmaxParameter.xml
+END
+gluTessEndPolygon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessEndPolygon.xml
+END
+glXQueryExtensionsString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryExtensionsString.xml
+END
+glIsBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsBuffer.xml
+END
+glXChooseFBConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXChooseFBConfig.xml
+END
+glGetPointerv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetPointerv.xml
+END
+gluOrtho2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluOrtho2D.xml
+END
+glVertexPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glVertexPointer.xml
+END
+glColor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColor.xml
+END
+glGetUniform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetUniform.xml
+END
+glPushName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPushName.xml
+END
+glXGetSelectedEvent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetSelectedEvent.xml
+END
+gluNurbsCurve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNurbsCurve.xml
+END
+glSecondaryColor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glSecondaryColor.xml
+END
+glEnableVertexAttribArray.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEnableVertexAttribArray.xml
+END
+glDeleteProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDeleteProgram.xml
+END
+glBlendEquation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBlendEquation.xml
+END
+glCallLists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCallLists.xml
+END
+glColorMask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColorMask.xml
+END
+glHistogram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glHistogram.xml
+END
+glMap1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMap1.xml
+END
+glCopyTexSubImage2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyTexSubImage2D.xml
+END
+glColorSubTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColorSubTable.xml
+END
+glTexSubImage1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexSubImage1D.xml
+END
+glStencilMaskSeparate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glStencilMaskSeparate.xml
+END
+glGetTexImage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetTexImage.xml
+END
+glGetString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetString.xml
+END
+glFrontFace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFrontFace.xml
+END
+glXSelectEvent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXSelectEvent.xml
+END
+glConvolutionFilter2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glConvolutionFilter2D.xml
+END
+glFeedbackBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFeedbackBuffer.xml
+END
+glCompressedTexImage3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompressedTexImage3D.xml
+END
+glBlendEquationSeparate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBlendEquationSeparate.xml
+END
+glDepthFunc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDepthFunc.xml
+END
+glXCreateWindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCreateWindow.xml
+END
+glCopyTexImage2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyTexImage2D.xml
+END
+glPixelTransfer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPixelTransfer.xml
+END
+glGetColorTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetColorTable.xml
+END
+glTexCoord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexCoord.xml
+END
+glNormal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glNormal.xml
+END
+glDeleteShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDeleteShader.xml
+END
+glGetMinmax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetMinmax.xml
+END
+glAttachShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glAttachShader.xml
+END
+glPixelStore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPixelStore.xml
+END
+glReadPixels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glReadPixels.xml
+END
+glBlendFunc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBlendFunc.xml
+END
+glIsShader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsShader.xml
+END
+glHint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glHint.xml
+END
+glFogCoord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFogCoord.xml
+END
+glMultiDrawElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMultiDrawElements.xml
+END
+glFrustum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFrustum.xml
+END
+glClipPlane.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClipPlane.xml
+END
+glDrawRangeElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDrawRangeElements.xml
+END
+glClearStencil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClearStencil.xml
+END
+glXMakeCurrent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXMakeCurrent.xml
+END
+glGetVertexAttribPointerv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetVertexAttribPointerv.xml
+END
+glFog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFog.xml
+END
+gluSphere.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluSphere.xml
+END
+glXMakeContextCurrent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXMakeContextCurrent.xml
+END
+glValidateProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glValidateProgram.xml
+END
+glBlendFuncSeparate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBlendFuncSeparate.xml
+END
+glGenBuffers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGenBuffers.xml
+END
+glTexImage1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexImage1D.xml
+END
+glPolygonStipple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPolygonStipple.xml
+END
+glClientActiveTexture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClientActiveTexture.xml
+END
+glXChooseVisual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXChooseVisual.xml
+END
+glLogicOp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLogicOp.xml
+END
+glXFreeContextEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXFreeContextEXT.xml
+END
+glXCreateContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCreateContext.xml
+END
+gluBuild2DMipmaps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBuild2DMipmaps.xml
+END
+glPushMatrix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPushMatrix.xml
+END
+glGetSeparableFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetSeparableFilter.xml
+END
+gluBeginTrim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBeginTrim.xml
+END
+glBindBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBindBuffer.xml
+END
+glDrawBuffers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDrawBuffers.xml
+END
+glClearDepth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClearDepth.xml
+END
+glBitmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBitmap.xml
+END
+gluBeginCurve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBeginCurve.xml
+END
+glDepthMask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDepthMask.xml
+END
+glIndexMask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIndexMask.xml
+END
+glPushClientAttrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPushClientAttrib.xml
+END
+glGetAttachedShaders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetAttachedShaders.xml
+END
+gluBuild1DMipmapLevels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBuild1DMipmapLevels.xml
+END
+glDrawElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDrawElements.xml
+END
+glGetQueryObject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetQueryObject.xml
+END
+glXIsDirect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXIsDirect.xml
+END
+gluCylinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluCylinder.xml
+END
+glXQueryContextInfoEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryContextInfoEXT.xml
+END
+glXGetCurrentDisplay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetCurrentDisplay.xml
+END
+glMultiTexCoord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMultiTexCoord.xml
+END
+glXCreatePbuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCreatePbuffer.xml
+END
+glReadBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glReadBuffer.xml
+END
+glGetUniformLocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetUniformLocation.xml
+END
+gluNewTess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNewTess.xml
+END
+gluTessBeginPolygon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessBeginPolygon.xml
+END
+glDepthRange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDepthRange.xml
+END
+glMapGrid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMapGrid.xml
+END
+glRenderMode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glRenderMode.xml
+END
+glXDestroyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXDestroyContext.xml
+END
+glCompressedTexSubImage1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompressedTexSubImage1D.xml
+END
+glGetColorTableParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetColorTableParameter.xml
+END
+glGenLists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGenLists.xml
+END
+glXImportContextEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXImportContextEXT.xml
+END
+glWindowPos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glWindowPos.xml
+END
+glLoadIdentity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLoadIdentity.xml
+END
+gluBuild2DMipmapLevels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBuild2DMipmapLevels.xml
+END
+gluQuadricCallback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluQuadricCallback.xml
+END
+gluPwlCurve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluPwlCurve.xml
+END
+glMaterial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMaterial.xml
+END
+glMap2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMap2.xml
+END
+glDeleteTextures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDeleteTextures.xml
+END
+glLight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLight.xml
+END
+glAreTexturesResident.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glAreTexturesResident.xml
+END
+glBeginQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBeginQuery.xml
+END
+glEvalCoord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEvalCoord.xml
+END
+glLoadName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLoadName.xml
+END
+glConvolutionParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glConvolutionParameter.xml
+END
+glFlush.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glFlush.xml
+END
+glBegin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBegin.xml
+END
+glGetShaderInfoLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetShaderInfoLog.xml
+END
+glEnableClientState.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEnableClientState.xml
+END
+gluBuild3DMipmapLevels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBuild3DMipmapLevels.xml
+END
+glXDestroyPbuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXDestroyPbuffer.xml
+END
+glTranslate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTranslate.xml
+END
+glGetHistogram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetHistogram.xml
+END
+glPolygonOffset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPolygonOffset.xml
+END
+glCopyTexSubImage3D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyTexSubImage3D.xml
+END
+glTexParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexParameter.xml
+END
+glAlphaFunc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glAlphaFunc.xml
+END
+glEvalPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glEvalPoint.xml
+END
+glTexSubImage2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexSubImage2D.xml
+END
+glListBase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glListBase.xml
+END
+gluNurbsCallbackDataEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluNurbsCallbackDataEXT.xml
+END
+glPassThrough.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPassThrough.xml
+END
+glCallList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCallList.xml
+END
+glGetProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetProgram.xml
+END
+glMatrixMode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMatrixMode.xml
+END
+glXDestroyGLXPixmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXDestroyGLXPixmap.xml
+END
+glXGetCurrentDrawable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetCurrentDrawable.xml
+END
+gluTessNormal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessNormal.xml
+END
+glStencilFunc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glStencilFunc.xml
+END
+gluLookAt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluLookAt.xml
+END
+glDrawArrays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDrawArrays.xml
+END
+glCopyColorTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCopyColorTable.xml
+END
+glDrawPixels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDrawPixels.xml
+END
+glPushAttrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPushAttrib.xml
+END
+glGetConvolutionFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetConvolutionFilter.xml
+END
+gluDeleteTess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluDeleteTess.xml
+END
+glScale.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glScale.xml
+END
+glNormalPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glNormalPointer.xml
+END
+glGetTexLevelParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetTexLevelParameter.xml
+END
+glOrtho.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glOrtho.xml
+END
+glStencilOp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glStencilOp.xml
+END
+gluBuild1DMipmaps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBuild1DMipmaps.xml
+END
+glMultMatrix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glMultMatrix.xml
+END
+glGetClipPlane.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetClipPlane.xml
+END
+gluTessProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessProperty.xml
+END
+glCompressedTexImage1D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCompressedTexImage1D.xml
+END
+glCullFace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glCullFace.xml
+END
+glClearIndex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClearIndex.xml
+END
+glPixelMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPixelMap.xml
+END
+glXSwapBuffers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXSwapBuffers.xml
+END
+glGetActiveAttrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetActiveAttrib.xml
+END
+glVertexAttrib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glVertexAttrib.xml
+END
+glStencilOpSeparate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glStencilOpSeparate.xml
+END
+glLinkProgram.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLinkProgram.xml
+END
+glSecondaryColorPointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glSecondaryColorPointer.xml
+END
+glGetPolygonStipple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetPolygonStipple.xml
+END
+glXGetFBConfigs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetFBConfigs.xml
+END
+glTexImage2D.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexImage2D.xml
+END
+glPointParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glPointParameter.xml
+END
+glXQueryExtension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXQueryExtension.xml
+END
+glIsTexture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glIsTexture.xml
+END
+glColorMaterial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glColorMaterial.xml
+END
+glGetHistogramParameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetHistogramParameter.xml
+END
+gluUnProject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluUnProject.xml
+END
+glClearAccum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClearAccum.xml
+END
+glXDestroyPixmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXDestroyPixmap.xml
+END
+glXGetProcAddress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetProcAddress.xml
+END
+glXUseXFont.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXUseXFont.xml
+END
+glLoadMatrix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glLoadMatrix.xml
+END
+gluQuadricNormals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluQuadricNormals.xml
+END
+glXCreateNewContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCreateNewContext.xml
+END
+glVertex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glVertex.xml
+END
+glStencilMask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glStencilMask.xml
+END
+glBufferSubData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glBufferSubData.xml
+END
+glXGetVisualFromFBConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXGetVisualFromFBConfig.xml
+END
+gluTessCallback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluTessCallback.xml
+END
+gluBeginSurface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluBeginSurface.xml
+END
+glXCreateGLXPixmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glXCreateGLXPixmap.xml
+END
+glClearColor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glClearColor.xml
+END
+glGetProgramInfoLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glGetProgramInfoLog.xml
+END
+glDrawBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glDrawBuffer.xml
+END
+glArrayElement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glArrayElement.xml
+END
+glTexGen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/glTexGen.xml
+END
+gluGetString.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Specifications/Docs/gluGetString.xml
+END

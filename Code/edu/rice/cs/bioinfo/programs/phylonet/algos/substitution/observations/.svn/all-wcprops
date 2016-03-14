@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/observations
+END
+NucleotideObservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/observations/NucleotideObservation.java
+END
+OneNucleotideObservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/observations/OneNucleotideObservation.java
+END
+ManyNucleotideObservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/substitution/observations/ManyNucleotideObservation.java
+END

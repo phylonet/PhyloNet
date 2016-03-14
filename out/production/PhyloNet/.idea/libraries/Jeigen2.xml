@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Jeigen2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/DavinCi/Jeigen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

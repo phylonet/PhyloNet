@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/tests
+END
+NetworkBranchScalerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/tests/NetworkBranchScalerTest.java
+END
+NetworkSwapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/tests/NetworkSwapTest.java
+END
+NetworkReticulationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/tests/NetworkReticulationTest.java
+END

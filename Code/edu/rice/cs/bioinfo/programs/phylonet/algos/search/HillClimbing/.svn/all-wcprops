@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/1117/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/search/HillClimbing
+END
+HillClimberBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/1117/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/search/HillClimbing/HillClimberBase.java
+END
+SimpleHillClimbing.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/1045/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/search/HillClimbing/SimpleHillClimbing.java
+END

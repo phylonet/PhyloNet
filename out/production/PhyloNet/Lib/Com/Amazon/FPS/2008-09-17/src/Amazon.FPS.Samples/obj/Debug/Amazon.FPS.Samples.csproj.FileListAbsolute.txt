@@ -1,0 +1,7 @@
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\bin\Debug\Amazon.FPS.Samples.exe
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\bin\Debug\Amazon.FPS.Samples.pdb
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\bin\Debug\Amazon.FPS.dll
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\bin\Debug\Amazon.FPS.pdb
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\obj\Debug\Amazon.FPS.Samples.exe
+C:\Development\Lib\Com\Amazon\FPS\2008-09-17\src\Amazon.FPS.Samples\obj\Debug\Amazon.FPS.Samples.pdb

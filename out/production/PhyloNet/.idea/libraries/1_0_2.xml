@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Org/Freehep/Freehep-jminuit/1.0.2/freehep-jminuit-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Org/Freehep/Freehep-jminuit/1.0.2/freehep-jminuit-1.0.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

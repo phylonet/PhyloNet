@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/795/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/integration
+END
+MultivariateMonteCarloIntegral.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/r/bioinfo/!svn/ver/717/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/integration/MultivariateMonteCarloIntegral.java
+END
+GTBranchLengthsIntegrationForSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/r/bioinfo/!svn/ver/754/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/integration/GTBranchLengthsIntegrationForSequence.java
+END
+FullLikelihoodFromSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/754/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/integration/FullLikelihoodFromSequence.java
+END
+GTBranchLengthsIntegrationForSpeciesPhylogeny.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/r/bioinfo/!svn/ver/795/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/integration/GTBranchLengthsIntegrationForSpeciesPhylogeny.java
+END

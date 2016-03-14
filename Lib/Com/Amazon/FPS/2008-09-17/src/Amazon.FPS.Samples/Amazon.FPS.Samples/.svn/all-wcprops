@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples
+END
+GetAccountActivitySample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetAccountActivitySample.cs
+END
+ReserveSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/ReserveSample.cs
+END
+GetPaymentInstructionSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetPaymentInstructionSample.cs
+END
+CancelSubscriptionAndRefundSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/CancelSubscriptionAndRefundSample.cs
+END
+AmazonFPSSamples.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/AmazonFPSSamples.cs
+END
+RefundSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/RefundSample.cs
+END
+GetDebtBalanceSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetDebtBalanceSample.cs
+END
+WriteOffDebtSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/WriteOffDebtSample.cs
+END
+GetTransactionSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetTransactionSample.cs
+END
+CancelSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/CancelSample.cs
+END
+CancelTokenSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/CancelTokenSample.cs
+END
+VerifySignatureSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/VerifySignatureSample.cs
+END
+GetTransactionStatusSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetTransactionStatusSample.cs
+END
+PaySample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/PaySample.cs
+END
+GetPrepaidBalanceSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetPrepaidBalanceSample.cs
+END
+GetTotalPrepaidLiabilitySample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetTotalPrepaidLiabilitySample.cs
+END
+GetTokenByCallerSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetTokenByCallerSample.cs
+END
+SettleDebtSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/SettleDebtSample.cs
+END
+SettleSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/SettleSample.cs
+END
+FundPrepaidSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/FundPrepaidSample.cs
+END
+GetAccountBalanceSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetAccountBalanceSample.cs
+END
+GetTokensSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetTokensSample.cs
+END
+GetOutstandingDebtBalanceSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetOutstandingDebtBalanceSample.cs
+END
+GetTokenUsageSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/GetTokenUsageSample.cs
+END
+InstallPaymentInstructionSample.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS.Samples/Amazon.FPS.Samples/InstallPaymentInstructionSample.cs
+END

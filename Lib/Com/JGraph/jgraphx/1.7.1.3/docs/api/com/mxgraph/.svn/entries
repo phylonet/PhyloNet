@@ -1,0 +1,61 @@
+10
+
+dir
+66
+https://svn.rice.edu/r/bioinfo/Lib/Com/JGraph/jgraphx/1.7.1.3/docs/api/com/mxgraph
+https://svn.rice.edu/r/bioinfo
+
+
+
+2011-08-24T00:42:38.442435Z
+8
+barnett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+model
+dir
+
+shape
+dir
+
+reader
+dir
+
+analysis
+dir
+
+io
+dir
+
+swing
+dir
+
+view
+dir
+
+canvas
+dir
+
+sharing
+dir
+
+layout
+dir
+
+util
+dir
+

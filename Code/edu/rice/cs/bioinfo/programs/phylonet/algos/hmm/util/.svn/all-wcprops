@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/1164/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util
+END
+SpeciesComparision.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/744/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/SpeciesComparision.java
+END
+SpeciesTreeComputations.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/SpeciesTreeComputations.java
+END
+JsonUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/JsonUtilities.java
+END
+MSDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/MSDataParser.java
+END
+ListUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/758/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/ListUtilities.java
+END
+NetworkLengthApplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/1164/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/NetworkLengthApplier.java
+END
+LimitedRunMultivariateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/758/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/LimitedRunMultivariateFunction.java
+END
+StateProbabilityCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/725/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/StateProbabilityCalculator.java
+END
+ParamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/758/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/util/ParamParser.java
+END

@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/examples
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+subclass
+dir
+
+
+
+add
+
+MyPatternParser.java
+file
+
+
+
+add
+
+factor.lcf
+file
+
+
+
+add
+
+factor.html
+file
+
+
+
+add
+
+lf5
+dir
+
+
+
+add
+
+NumberCruncherServer.java
+file
+
+
+
+add
+
+Trivial.java
+file
+
+
+
+add
+
+package.html
+file
+
+
+
+add
+
+NumberCruncherClient.java
+file
+
+
+
+add
+
+MyPatternLayout.java
+file
+
+
+
+add
+
+NumberCruncher.java
+file
+
+
+
+add
+
+mycat.bad
+file
+
+
+
+add
+
+customLevel
+dir
+
+
+
+add
+
+sort1.properties
+file
+
+
+
+add
+
+sort2.properties
+file
+
+
+
+add
+
+mycat.good
+file
+
+
+
+add
+
+sort3.properties
+file
+
+
+
+add
+
+sort4.properties
+file
+
+
+
+add
+
+Sort.java
+file
+
+
+
+add
+
+SortAlgo.java
+file
+
+
+
+add
+

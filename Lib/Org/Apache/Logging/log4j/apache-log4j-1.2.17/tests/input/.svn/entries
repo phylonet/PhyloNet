@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/tests/input
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+RFA1.properties
+file
+
+
+
+add
+
+patternLayout1.properties
+file
+
+
+
+add
+
+patternLayout3.properties
+file
+
+
+
+add
+
+socketServer1.properties
+file
+
+
+
+add
+
+patternLayout5.properties
+file
+
+
+
+add
+
+socketServer3.properties
+file
+
+
+
+add
+
+patternLayout7.properties
+file
+
+
+
+add
+
+patternLayout9.properties
+file
+
+
+
+add
+
+socketServer5.properties
+file
+
+
+
+add
+
+filter1.properties
+file
+
+
+
+add
+
+socketServer7.properties
+file
+
+
+
+add
+
+patternLayout.mdc.1.properties
+file
+
+
+
+add
+
+patternLayout10.properties
+file
+
+
+
+add
+
+hierarchyThreshold2.properties
+file
+
+
+
+add
+
+patternLayout12.properties
+file
+
+
+
+add
+
+hierarchyThreshold4.properties
+file
+
+
+
+add
+
+patternLayout14.properties
+file
+
+
+
+add
+
+hierarchyThreshold6.properties
+file
+
+
+
+add
+
+pattern
+dir
+
+
+
+add
+
+hierarchyThreshold8.properties
+file
+
+
+
+add
+
+defaultInit3.properties
+file
+
+
+
+add
+
+patternLayout2.properties
+file
+
+
+
+add
+
+patternLayout4.properties
+file
+
+
+
+add
+
+socketServer2.properties
+file
+
+
+
+add
+
+patternLayout6.properties
+file
+
+
+
+add
+
+patternLayout8.properties
+file
+
+
+
+add
+
+socketServer4.properties
+file
+
+
+
+add
+
+socketServer6.properties
+file
+
+
+
+add
+
+xml
+dir
+
+
+
+add
+
+socketServer8.properties
+file
+
+
+
+add
+
+hierarchyThreshold1.properties
+file
+
+
+
+add
+
+patternLayout11.properties
+file
+
+
+
+add
+
+hierarchyThreshold3.properties
+file
+
+
+
+add
+
+patternLayout13.properties
+file
+
+
+
+add
+
+fallback1.properties
+file
+
+
+
+add
+
+hierarchyThreshold5.properties
+file
+
+
+
+add
+
+hierarchyThreshold7.properties
+file
+
+
+
+add
+

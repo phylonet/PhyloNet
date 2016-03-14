@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal
+END
+NetworkBranchScaler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetworkBranchScaler.java
+END
+NetInheritScaler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetInheritScaler.java
+END
+NetworkSwap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetworkSwap.java
+END
+NetRetDel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetRetDel.java
+END
+NetRetAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetRetAdd.java
+END
+NetworkOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetworkOperation.java
+END
+NetBranchScaler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/768/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/proposal/NetBranchScaler.java
+END

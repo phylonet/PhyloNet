@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/738/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/network/allNeighbours
+END
+AllNeighboursHillClimberBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/r/bioinfo/!svn/ver/738/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/network/allNeighbours/AllNeighboursHillClimberBase.java
+END
+AllNeighboursHillClimberSteepestAscent.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/r/bioinfo/!svn/ver/275/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/network/allNeighbours/AllNeighboursHillClimberSteepestAscent.java
+END
+AllNeighboursHillClimberFirstBetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/r/bioinfo/!svn/ver/738/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/network/allNeighbours/AllNeighboursHillClimberFirstBetter.java
+END

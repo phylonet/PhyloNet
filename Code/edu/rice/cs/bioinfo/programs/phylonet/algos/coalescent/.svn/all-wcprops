@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent
+END
+CoalescentCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/CoalescentCounter.java
+END
+DeepCoalescencesCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/681/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/DeepCoalescencesCounter.java
+END
+MDCInference_DP.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/742/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/MDCInference_DP.java
+END
+DemocraticVoteInference.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/681/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/DemocraticVoteInference.java
+END
+GLASSInference.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/GLASSInference.java
+END
+MDCURInference.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/685/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/MDCURInference.java
+END
+GeneTreeRefinement.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/682/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/GeneTreeRefinement.java
+END
+MDCURInference_DP.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/685/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/MDCURInference_DP.java
+END
+Solution.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/688/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/Solution.java
+END
+MDCURInference_ILP.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/MDCURInference_ILP.java
+END
+TaxaDistanceMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/TaxaDistanceMatrix.java
+END
+MDCWithTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/685/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/MDCWithTime.java
+END
+MajorityConsensusInference.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/684/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/coalescent/MajorityConsensusInference.java
+END

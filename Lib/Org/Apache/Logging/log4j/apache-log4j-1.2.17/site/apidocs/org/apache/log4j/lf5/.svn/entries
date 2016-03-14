@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/site/apidocs/org/apache/log4j/lf5
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+DefaultLF5Configurator.html
+file
+
+
+
+add
+
+LogRecord.html
+file
+
+
+
+add
+
+Log4JLogRecord.html
+file
+
+
+
+add
+
+StartLogFactor5.html
+file
+
+
+
+add
+
+package-frame.html
+file
+
+
+
+add
+
+package-use.html
+file
+
+
+
+add
+
+package-summary.html
+file
+
+
+
+add
+
+LogRecordFilter.html
+file
+
+
+
+add
+
+package-tree.html
+file
+
+
+
+add
+
+class-use
+dir
+
+
+
+add
+
+viewer
+dir
+
+
+
+add
+
+LogLevelFormatException.html
+file
+
+
+
+add
+
+AppenderFinalizer.html
+file
+
+
+
+add
+
+LF5Appender.html
+file
+
+
+
+add
+
+LogLevel.html
+file
+
+
+
+add
+
+util
+dir
+
+
+
+add
+
+PassingLogRecordFilter.html
+file
+
+
+
+add
+

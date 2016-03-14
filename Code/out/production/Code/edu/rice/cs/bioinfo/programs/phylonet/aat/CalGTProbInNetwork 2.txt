@@ -1,0 +1,130 @@
+#NEXUS
+
+BEGIN NETWORKS;
+
+Network net = ((A:3,(((B:1,(C:1)Y#H1:0::0.4):1,(D:1,Y#H1:0::0.6):1):1)X#H2:0::0.3):1,(X#H2:0::0.7,E:3):1);
+
+END;
+
+BEGIN TREES;
+
+Tree g0 = (C,((D,(B,E)),A));
+Tree g1 = (D,((B,E),(C,A)));
+Tree g2 = (B,(E,(D,(C,A))));
+Tree g3 = (E,(B,(D,(C,A))));
+Tree g4 = ((B,E),(D,(C,A)));
+Tree g5 = ((D,(B,E)),(C,A));
+Tree g6 = (A,(C,(D,(B,E))));
+Tree g7 = (C,((B,(D,E)),A));
+Tree g8 = (B,((D,E),(C,A)));
+Tree g9 = (D,(E,(B,(C,A))));
+Tree g10 = (E,(D,(B,(C,A))));
+Tree g11 = ((D,E),(B,(C,A)));
+Tree g12 = ((B,(D,E)),(C,A));
+Tree g13 = (A,(C,(B,(D,E))));
+Tree g14 = (B,(D,((C,E),A)));
+Tree g15 = (D,(B,((C,E),A)));
+Tree g16 = ((B,D),((C,E),A));
+Tree g17 = (C,(E,((B,D),A)));
+Tree g18 = (E,(C,((B,D),A)));
+Tree g19 = ((C,E),((B,D),A));
+Tree g20 = (A,((B,D),(C,E)));
+Tree g21 = (C,(((B,D),E),A));
+Tree g22 = (B,(D,(E,(C,A))));
+Tree g23 = (D,(B,(E,(C,A))));
+Tree g24 = ((B,D),(E,(C,A)));
+Tree g25 = (E,((B,D),(C,A)));
+Tree g26 = (((B,D),E),(C,A));
+Tree g27 = (A,(C,((B,D),E)));
+Tree g28 = (C,((B,D),(A,E)));
+Tree g29 = (B,(D,(C,(A,E))));
+Tree g30 = (D,(B,(C,(A,E))));
+Tree g31 = ((B,D),(C,(A,E)));
+Tree g32 = (A,(E,(C,(B,D))));
+Tree g33 = (E,(A,(C,(B,D))));
+Tree g34 = ((C,(B,D)),(A,E));
+Tree g35 = (B,((D,(C,E)),A));
+Tree g36 = (D,((C,E),(B,A)));
+Tree g37 = (C,(E,(D,(B,A))));
+Tree g38 = (E,(C,(D,(B,A))));
+Tree g39 = ((C,E),(D,(B,A)));
+Tree g40 = ((D,(C,E)),(B,A));
+Tree g41 = (A,(B,(D,(C,E))));
+Tree g42 = (B,((C,(D,E)),A));
+Tree g43 = (C,((D,E),(B,A)));
+Tree g44 = (D,(E,(C,(B,A))));
+Tree g45 = (E,(D,(C,(B,A))));
+Tree g46 = ((D,E),(C,(B,A)));
+Tree g47 = ((C,(D,E)),(B,A));
+Tree g48 = (A,(B,(C,(D,E))));
+Tree g49 = (C,(D,((B,E),A)));
+Tree g50 = (D,(C,((B,E),A)));
+Tree g51 = ((C,D),((B,E),A));
+Tree g52 = (B,(E,((C,D),A)));
+Tree g53 = (E,(B,((C,D),A)));
+Tree g54 = ((B,E),((C,D),A));
+Tree g55 = (A,((C,D),(B,E)));
+Tree g56 = (B,(((C,D),E),A));
+Tree g57 = (C,(D,(E,(B,A))));
+Tree g58 = (D,(C,(E,(B,A))));
+Tree g59 = ((C,D),(E,(B,A)));
+Tree g60 = (E,((C,D),(B,A)));
+Tree g61 = (((C,D),E),(B,A));
+Tree g62 = (A,(B,((C,D),E)));
+Tree g63 = (B,((C,D),(A,E)));
+Tree g64 = (C,(D,(B,(A,E))));
+Tree g65 = (D,(C,(B,(A,E))));
+Tree g66 = ((C,D),(B,(A,E)));
+Tree g67 = (A,(E,(B,(C,D))));
+Tree g68 = (E,(A,(B,(C,D))));
+Tree g69 = ((B,(C,D)),(A,E));
+Tree g70 = (C,((B,E),(A,D)));
+Tree g71 = (B,(E,(C,(A,D))));
+Tree g72 = (E,(B,(C,(A,D))));
+Tree g73 = ((B,E),(C,(A,D)));
+Tree g74 = (A,(D,(C,(B,E))));
+Tree g75 = (D,(A,(C,(B,E))));
+Tree g76 = ((C,(B,E)),(A,D));
+Tree g77 = (B,((C,E),(A,D)));
+Tree g78 = (C,(E,(B,(A,D))));
+Tree g79 = (E,(C,(B,(A,D))));
+Tree g80 = ((C,E),(B,(A,D)));
+Tree g81 = (A,(D,(B,(C,E))));
+Tree g82 = (D,(A,(B,(C,E))));
+Tree g83 = ((B,(C,E)),(A,D));
+Tree g84 = (B,(C,(D,(A,E))));
+Tree g85 = (C,(B,(D,(A,E))));
+Tree g86 = (D,((A,E),(B,C)));
+Tree g87 = (A,(E,(D,(B,C))));
+Tree g88 = (E,(A,(D,(B,C))));
+Tree g89 = ((A,E),(D,(B,C)));
+Tree g90 = ((B,C),(D,(A,E)));
+Tree g91 = (B,(C,(A,(D,E))));
+Tree g92 = (C,(B,(A,(D,E))));
+Tree g93 = (A,((D,E),(B,C)));
+Tree g94 = (D,(E,(A,(B,C))));
+Tree g95 = (E,(D,(A,(B,C))));
+Tree g96 = ((D,E),(A,(B,C)));
+Tree g97 = ((B,C),(A,(D,E)));
+Tree g98 = (A,(D,((B,C),E)));
+Tree g99 = (D,(A,((B,C),E)));
+Tree g100 = (B,(C,(E,(A,D))));
+Tree g101 = (C,(B,(E,(A,D))));
+Tree g102 = ((B,C),(E,(A,D)));
+Tree g103 = (E,((B,C),(A,D)));
+Tree g104 = ((A,D),((B,C),E));
+
+END;
+
+BEGIN PHYLONET;
+
+calgtprob net (g0, g1, g2, g3, g4, g5, g6, g7, g8, g9, g10, g11, g12, g13, g14, g15, g16, g17, g18, g19, g20, g21, g22, g23, g24, g25, g26, g27, g28, g29, g30, g31, g32, g33, g34, g35, g36, g37, g38, g39, g40, g41, g42, g43, g44, g45, g46, g47, g48, g49, g50, g51, g52, g53, g54, g55, g56, g57, g58, g59, g60, g61, g62, g63, g64, g65, g66, g67, g68, g69, g70, g71, g72, g73, g74, g75, g76, g77, g78, g79, g80, g81, g82, g83, g84, g85, g86, g87, g88, g89, g90, g91, g92, g93, g94, g95, g96, g97, g98, g99, g100, g101, g102, g103, g104 );
+
+END;
+===
+
+calgtprob net (g0, g1, g2, g3, g4, g5, g6, g7, g8, g9, g10, g11, g12, g13, g14, g15, g16, g17, g18, g19, g20, g21, g22, g23, g24, g25, g26, g27, g28, g29, g30, g31, g32, g33, g34, g35, g36, g37, g38, g39, g40, g41, g42, g43, g44, g45, g46, g47, g48, g49, g50, g51, g52, g53, g54, g55, g56, g57, g58, g59, g60, g61, g62, g63, g64, g65, g66, g67, g68, g69, g70, g71, g72, g73, g74, g75, g76, g77, g78, g79, g80, g81, g82, g83, g84, g85, g86, g87, g88, g89, g90, g91, g92, g93, g94, g95, g96, g97, g98, g99, g100, g101, g102, g103, g104)
+Species Network:
+((E:3.0,((((C:1.0)#H2:0.0::0.6,D:1.0):1.0,(#H2:0.0::0.4,B:1.0):1.0):1.0)#H1:0.0::0.7):1.0,(#H1:0.0::0.3,A:3.0):1.0);
+Total log probability: -796.3196948987829
+===

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text
+END
+GlyphSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GlyphSheet.cs
+END
+PoolableTextExtents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/PoolableTextExtents.cs
+END
+IGlyphCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/IGlyphCache.cs
+END
+Glyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/Glyph.cs
+END
+GL1TextOutputProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GL1TextOutputProvider.cs
+END
+GlyphEnumerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GlyphEnumerator.cs
+END
+GdiPlusGlyphRasterizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GdiPlusGlyphRasterizer.cs
+END
+CachedGlyphInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/CachedGlyphInfo.cs
+END
+TextBlockComparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/TextBlockComparer.cs
+END
+ITextOutputProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/ITextOutputProvider.cs
+END
+TextBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/TextBlock.cs
+END
+GL11TextOutputProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GL11TextOutputProvider.cs
+END
+GL12TextOutputProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GL12TextOutputProvider.cs
+END
+IGlyphRasterizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/IGlyphRasterizer.cs
+END
+GlyphCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GlyphCache.cs
+END
+GlyphPacker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Compatibility/Graphics/Text/GlyphPacker.cs
+END

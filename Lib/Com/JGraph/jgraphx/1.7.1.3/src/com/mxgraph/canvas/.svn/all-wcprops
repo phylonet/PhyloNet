@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas
+END
+mxICanvas2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxICanvas2D.java
+END
+mxVmlCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxVmlCanvas.java
+END
+mxSvgCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxSvgCanvas.java
+END
+mxBasicCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxBasicCanvas.java
+END
+mxImageCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxImageCanvas.java
+END
+mxHtmlCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxHtmlCanvas.java
+END
+mxGraphics2DCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxGraphics2DCanvas.java
+END
+mxGraphicsCanvas2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxGraphicsCanvas2D.java
+END
+mxICanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/mxICanvas.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/canvas/package.html
+END

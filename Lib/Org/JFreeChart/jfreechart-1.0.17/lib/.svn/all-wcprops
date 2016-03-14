@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/servlet.jar
+END
+swtgraphics2d.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/swtgraphics2d.jar
+END
+orsoncharts-1.0-eval.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/orsoncharts-1.0-eval.jar
+END
+jfreechart-1.0.17-experimental.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/jfreechart-1.0.17-experimental.jar
+END
+jfreechart-1.0.17-swt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/jfreechart-1.0.17-swt.jar
+END
+junit-4.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/junit-4.11.jar
+END
+hamcrest-core-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/hamcrest-core-1.3.jar
+END
+jfreesvg-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/jfreesvg-1.4.jar
+END
+orsonpdf-1.3-eval.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/orsonpdf-1.3-eval.jar
+END
+jcommon-1.0.21.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/jcommon-1.0.21.jar
+END
+jfreechart-1.0.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/lib/jfreechart-1.0.17.jar
+END

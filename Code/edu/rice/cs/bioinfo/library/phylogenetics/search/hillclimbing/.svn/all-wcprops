@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/738/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing
+END
+KSteepestAscentBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/122/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/KSteepestAscentBase.java
+END
+HillClimber.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/HillClimber.java
+END
+HillClimberObservableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/738/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/HillClimberObservableBase.java
+END
+HillClimberObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/115/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/HillClimberObservable.java
+END
+HillClimbResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/115/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/search/hillclimbing/HillClimbResult.java
+END

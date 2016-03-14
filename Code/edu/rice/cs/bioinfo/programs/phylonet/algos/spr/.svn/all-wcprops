@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/spr
+END
+SubtreePruningAndRegraftingSearcherBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/149/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/spr/SubtreePruningAndRegraftingSearcherBase.java
+END
+SPRSearcherNeighborsExpansiveInPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/spr/SPRSearcherNeighborsExpansiveInPlace.java
+END
+SPRegraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/spr/SPRegraft.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/1176/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network
+END
+NetworkToGraphAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/143/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/NetworkToGraphAdapter.java
+END
+NetworkMetricNakhleh.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/800/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/NetworkMetricNakhleh.java
+END
+Network.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/771/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/Network.java
+END
+NetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/NetNode.java
+END

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CekiGulcu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EirikLygre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JamesHouse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jamie Tsao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JimMoore" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KevinSteppe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KitchingSimon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeosLiterak" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MarkDouglas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SvenReimers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ThomasFenner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/VolkerMentzner" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="log4j-1.2.17" level="project" />
+    <orderEntry type="library" name="0.9.5" level="project" />
+  </component>
+</module>
+

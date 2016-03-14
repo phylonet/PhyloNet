@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/contribs/MarkDouglas
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+Log.txt
+file
+
+
+
+add
+
+SocketNode2.java
+file
+
+
+
+add
+
+SocketServer2.java
+file
+
+
+
+add
+
+mail-2001-01-17
+file
+
+
+
+add
+

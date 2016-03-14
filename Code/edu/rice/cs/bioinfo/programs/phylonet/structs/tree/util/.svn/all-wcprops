@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/1176/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/util
+END
+Collapse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/util/Collapse.java
+END
+HmmTreeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/726/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/util/HmmTreeUtils.java
+END
+Trees.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/1176/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/util/Trees.java
+END
+Bipartitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/util/Bipartitions.java
+END
+PostTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/tree/util/PostTraversal.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/741/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization
+END
+NetworkTripartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization/NetworkTripartition.java
+END
+NetworkBootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/741/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization/NetworkBootstrap.java
+END
+NetworkTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/360/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization/NetworkTree.java
+END
+NetworkCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/r/bioinfo/!svn/ver/360/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization/NetworkCluster.java
+END
+NetworkTreeEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization/NetworkTreeEnumerator.java
+END
+NetworkEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/characterization/NetworkEdge.java
+END

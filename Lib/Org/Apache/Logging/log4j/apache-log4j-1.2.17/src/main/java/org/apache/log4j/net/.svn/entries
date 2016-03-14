@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/src/main/java/org/apache/log4j/net
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+SocketServer.java
+file
+
+
+
+add
+
+SyslogAppender.java
+file
+
+
+
+add
+
+SMTPAppender.java
+file
+
+
+
+add
+
+ZeroConfSupport.java
+file
+
+
+
+add
+
+SocketHubAppender.java
+file
+
+
+
+add
+
+SocketAppender.java
+file
+
+
+
+add
+
+JMSAppender.java
+file
+
+
+
+add
+
+SimpleSocketServer.java
+file
+
+
+
+add
+
+TelnetAppender.java
+file
+
+
+
+add
+
+JMSSink.java
+file
+
+
+
+add
+
+package.html
+file
+
+
+
+add
+
+SocketNode.java
+file
+
+
+
+add
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model
+END
+ProcessOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/ProcessOutput.java
+END
+RawOutputInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/RawOutputInformation.java
+END
+HmmState.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/HmmState.java
+END
+JahmmNucleotideObservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/JahmmNucleotideObservation.java
+END
+HmmParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/HmmParameters.java
+END
+FullOutputInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/FullOutputInformation.java
+END
+ExtractOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/ExtractOutput.java
+END
+HmmOptimizationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/HmmOptimizationFunction.java
+END
+HmmStateUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/HmmStateUtilities.java
+END
+ProcessedOutputInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/model/ProcessedOutputInformation.java
+END

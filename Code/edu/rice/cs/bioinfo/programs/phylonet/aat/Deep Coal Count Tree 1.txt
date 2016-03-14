@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN TREES;
+
+Tree speceiesTree = ((((a,b),c),d),e);
+Tree geneTree1 = ((((a,b),c),d),e);
+Tree geneTree2 = ((a,b),((c,e),d));
+Tree geneTree3 = ((a,c),((b,e),d));
+
+END;
+
+
+BEGIN PHYLONET;
+
+DeepCoalCount_Tree {speceiesTree} (geneTree1, geneTree2, geneTree3);
+
+END;
+===
+
+DeepCoalCount_Tree {speceiesTree} (geneTree1, geneTree2, geneTree3)
+Species_Tree#1 = ((((a:0.0,b:0.0):1.0,c:0.0):2.0,d:0.0):4.0,e:0.0):0.0;
+Total number of extra lineages: 7.0
+===

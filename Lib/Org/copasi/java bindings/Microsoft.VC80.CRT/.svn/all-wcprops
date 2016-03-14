@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT
+END
+Microsoft.VC80.CRT.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT/Microsoft.VC80.CRT.manifest
+END
+example1.cps
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT/example1.cps
+END
+msvcm80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT/msvcm80.dll
+END
+msvcp80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT/msvcp80.dll
+END
+example1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT/example1.xml
+END
+msvcr80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/Microsoft.VC80.CRT/msvcr80.dll
+END

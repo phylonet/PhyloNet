@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category
+END
+BoxAndWhiskerRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/BoxAndWhiskerRendererTest.java
+END
+AreaRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/AreaRendererTest.java
+END
+IntervalBarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/IntervalBarRendererTest.java
+END
+CategoryStepRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/CategoryStepRendererTest.java
+END
+StatisticalBarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/StatisticalBarRendererTest.java
+END
+LayeredBarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/LayeredBarRendererTest.java
+END
+GanttRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/GanttRendererTest.java
+END
+LineRenderer3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/LineRenderer3DTest.java
+END
+GradientBarPainterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/GradientBarPainterTest.java
+END
+AbstractCategoryItemRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/AbstractCategoryItemRendererTest.java
+END
+StandardBarPainterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/StandardBarPainterTest.java
+END
+MinMaxCategoryRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/MinMaxCategoryRendererTest.java
+END
+GroupedStackedBarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/GroupedStackedBarRendererTest.java
+END
+StackedBarRenderer3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/StackedBarRenderer3DTest.java
+END
+LineAndShapeRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/LineAndShapeRendererTest.java
+END
+BarRenderer3DTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/BarRenderer3DTest.java
+END
+StatisticalLineAndShapeRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/StatisticalLineAndShapeRendererTest.java
+END
+DefaultCategoryItemRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/DefaultCategoryItemRendererTest.java
+END
+StackedBarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/StackedBarRendererTest.java
+END
+BarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/BarRendererTest.java
+END
+ScatterRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/ScatterRendererTest.java
+END
+WaterfallBarRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/WaterfallBarRendererTest.java
+END
+LevelRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/LevelRendererTest.java
+END
+StackedAreaRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/renderer/category/StackedAreaRendererTest.java
+END

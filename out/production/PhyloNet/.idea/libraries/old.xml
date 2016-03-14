@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="old">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/old/Jeigen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/old/jna-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/old/lib.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Jeigen/Original/old/jna-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

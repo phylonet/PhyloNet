@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Org/Antlr/3.3/Java/antlr-3.3/runtime/Java/target/antlr-runtime-3.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Org/Antlr/3.3/Java/antlr-3.3/runtime/Java/target/antlr-runtime-3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

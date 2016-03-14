@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind
+END
+Utilities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Utilities.cs
+END
+Generator.Bind.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Generator.Bind.csproj
+END
+ISpecWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/ISpecWriter.cs
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Settings.cs
+END
+Main.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/Main.cs
+END
+BindStreamWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/BindStreamWriter.cs
+END
+IBind.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/IBind.cs
+END
+DocProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/DocProcessor.cs
+END
+ISpecReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/Source/Bind/ISpecReader.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/tbr
+END
+TreeBisectionAndReconnectionSearcherBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/tbr/TreeBisectionAndReconnectionSearcherBase.java
+END
+TreeBisectionAndReconstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/tbr/TreeBisectionAndReconstruction.java
+END
+TBRSearchNeighborsExpansiveInPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/77/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/tbr/TBRSearchNeighborsExpansiveInPlace.java
+END

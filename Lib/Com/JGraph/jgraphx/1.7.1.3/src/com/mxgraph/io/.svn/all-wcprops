@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io
+END
+mxCellCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxCellCodec.java
+END
+mxCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxCodec.java
+END
+mxGmlCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxGmlCodec.java
+END
+mxModelCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxModelCodec.java
+END
+mxVdxCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxVdxCodec.java
+END
+mxTerminalChangeCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxTerminalChangeCodec.java
+END
+mxGenericChangeCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxGenericChangeCodec.java
+END
+mxObjectCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxObjectCodec.java
+END
+mxCodecRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxCodecRegistry.java
+END
+mxChildChangeCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxChildChangeCodec.java
+END
+mxRootChangeCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxRootChangeCodec.java
+END
+mxStylesheetCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxStylesheetCodec.java
+END
+mxGdCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/mxGdCodec.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/r/bioinfo/!svn/ver/8/Lib/Com/JGraph/jgraphx/1.7.1.3/src/com/mxgraph/io/package.html
+END

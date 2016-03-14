@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://svn.rice.edu/r/bioinfo/Lib/Org/Apache/Logging/log4j/apache-log4j-1.2.17/src/main/java/org/apache/log4j/varia
+https://svn.rice.edu/r/bioinfo
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94e8b07c-332e-4ac0-aa82-9412fb3d5b0f
+
+Roller.java
+file
+
+
+
+add
+
+FallbackErrorHandler.java
+file
+
+
+
+add
+
+ExternallyRolledFileAppender.java
+file
+
+
+
+add
+
+NullAppender.java
+file
+
+
+
+add
+
+StringMatchFilter.java
+file
+
+
+
+add
+
+LevelMatchFilter.java
+file
+
+
+
+add
+
+LevelRangeFilter.java
+file
+
+
+
+add
+
+ReloadingPropertyConfigurator.java
+file
+
+
+
+add
+
+DenyAllFilter.java
+file
+
+
+
+add
+
+package.html
+file
+
+
+
+add
+

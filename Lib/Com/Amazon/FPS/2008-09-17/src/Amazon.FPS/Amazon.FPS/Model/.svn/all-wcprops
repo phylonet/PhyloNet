@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model
+END
+GetAccountBalanceRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetAccountBalanceRequest.cs
+END
+MarketplaceRefundPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/MarketplaceRefundPolicy.cs
+END
+SoftDescriptorType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SoftDescriptorType.cs
+END
+SettleDebtResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SettleDebtResponse.cs
+END
+FundPrepaidResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/FundPrepaidResponse.cs
+END
+RefundResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/RefundResult.cs
+END
+SortOrder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SortOrder.cs
+END
+WriteOffDebtResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/WriteOffDebtResult.cs
+END
+TransactionStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TransactionStatus.cs
+END
+GetTokenByCallerResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokenByCallerResult.cs
+END
+CancelRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelRequest.cs
+END
+CancelTokenRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelTokenRequest.cs
+END
+ResponseMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/ResponseMetadata.cs
+END
+SettleResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SettleResult.cs
+END
+PayRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/PayRequest.cs
+END
+RefundResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/RefundResponse.cs
+END
+GetOutstandingDebtBalanceResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetOutstandingDebtBalanceResult.cs
+END
+Amount.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/Amount.cs
+END
+OutstandingDebtBalance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/OutstandingDebtBalance.cs
+END
+TokenUsageLimit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TokenUsageLimit.cs
+END
+StatusHistory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/StatusHistory.cs
+END
+GetTokenByCallerRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokenByCallerRequest.cs
+END
+ErrorResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/ErrorResponse.cs
+END
+SettleDebtRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SettleDebtRequest.cs
+END
+GetPrepaidBalanceResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetPrepaidBalanceResponse.cs
+END
+GetTokenUsageRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokenUsageRequest.cs
+END
+GetPaymentInstructionResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetPaymentInstructionResult.cs
+END
+RelationType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/RelationType.cs
+END
+CancelResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelResult.cs
+END
+Transaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/Transaction.cs
+END
+VerifySignatureResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/VerifySignatureResult.cs
+END
+InstallPaymentInstructionResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/InstallPaymentInstructionResponse.cs
+END
+CurrencyCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CurrencyCode.cs
+END
+PayResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/PayResult.cs
+END
+GetTotalPrepaidLiabilityResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTotalPrepaidLiabilityResult.cs
+END
+CancelSubscriptionAndRefundRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelSubscriptionAndRefundRequest.cs
+END
+RefundRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/RefundRequest.cs
+END
+GetDebtBalanceRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetDebtBalanceRequest.cs
+END
+GetPaymentInstructionResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetPaymentInstructionResponse.cs
+END
+VerifySignatureRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/VerifySignatureRequest.cs
+END
+GetTransactionStatusRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTransactionStatusRequest.cs
+END
+GetTokensResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokensResult.cs
+END
+GetDebtBalanceResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetDebtBalanceResponse.cs
+END
+GetTokenUsageResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokenUsageResult.cs
+END
+CancelResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelResponse.cs
+END
+PayResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/PayResponse.cs
+END
+GetTotalPrepaidLiabilityResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTotalPrepaidLiabilityResponse.cs
+END
+ReserveResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/ReserveResult.cs
+END
+PaymentMethod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/PaymentMethod.cs
+END
+CancelSubscriptionAndRefundResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelSubscriptionAndRefundResult.cs
+END
+CSOwner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CSOwner.cs
+END
+Token.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/Token.cs
+END
+GetAccountBalanceResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetAccountBalanceResponse.cs
+END
+GetTokensResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokensResponse.cs
+END
+GetAccountActivityRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetAccountActivityRequest.cs
+END
+GetTokenUsageResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokenUsageResponse.cs
+END
+TransactionalRole.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TransactionalRole.cs
+END
+RelatedTransaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/RelatedTransaction.cs
+END
+VerificationStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/VerificationStatus.cs
+END
+GetTransactionStatusResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTransactionStatusResult.cs
+END
+GetPaymentInstructionRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetPaymentInstructionRequest.cs
+END
+GetPrepaidBalanceResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetPrepaidBalanceResult.cs
+END
+Error.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/Error.cs
+END
+PrepaidBalance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/PrepaidBalance.cs
+END
+ReserveResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/ReserveResponse.cs
+END
+WriteOffDebtRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/WriteOffDebtRequest.cs
+END
+GetTransactionRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTransactionRequest.cs
+END
+CancelSubscriptionAndRefundResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelSubscriptionAndRefundResponse.cs
+END
+GetPrepaidBalanceRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetPrepaidBalanceRequest.cs
+END
+WriteOffDebtResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/WriteOffDebtResponse.cs
+END
+GetTotalPrepaidLiabilityRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTotalPrepaidLiabilityRequest.cs
+END
+InstallPaymentInstructionResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/InstallPaymentInstructionResult.cs
+END
+CancelTokenResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/CancelTokenResponse.cs
+END
+OutstandingPrepaidLiability.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/OutstandingPrepaidLiability.cs
+END
+GetTransactionStatusResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTransactionStatusResponse.cs
+END
+GetAccountActivityResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetAccountActivityResult.cs
+END
+AvailableBalances.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/AvailableBalances.cs
+END
+SettleRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SettleRequest.cs
+END
+FundPrepaidRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/FundPrepaidRequest.cs
+END
+GetTokensRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokensRequest.cs
+END
+ChargeFeeTo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/ChargeFeeTo.cs
+END
+TransactionPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TransactionPart.cs
+END
+GetTokenByCallerResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTokenByCallerResponse.cs
+END
+GetOutstandingDebtBalanceRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetOutstandingDebtBalanceRequest.cs
+END
+InstallPaymentInstructionRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/InstallPaymentInstructionRequest.cs
+END
+SettleResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SettleResponse.cs
+END
+TokenType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TokenType.cs
+END
+GetOutstandingDebtBalanceResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetOutstandingDebtBalanceResponse.cs
+END
+GetDebtBalanceResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetDebtBalanceResult.cs
+END
+GetTransactionResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTransactionResult.cs
+END
+DebtBalance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/DebtBalance.cs
+END
+ReserveRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/ReserveRequest.cs
+END
+TokenStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TokenStatus.cs
+END
+GetAccountActivityResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetAccountActivityResponse.cs
+END
+DescriptorPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/DescriptorPolicy.cs
+END
+SettleDebtResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/SettleDebtResult.cs
+END
+FundPrepaidResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/FundPrepaidResult.cs
+END
+GetAccountBalanceResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetAccountBalanceResult.cs
+END
+AccountBalance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/AccountBalance.cs
+END
+GetTransactionResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/GetTransactionResponse.cs
+END
+VerifySignatureResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/VerifySignatureResponse.cs
+END
+TransactionDetail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/TransactionDetail.cs
+END
+FPSOperation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/r/bioinfo/!svn/ver/8/Lib/Com/Amazon/FPS/2008-09-17/src/Amazon.FPS/Amazon.FPS/Model/FPSOperation.cs
+END

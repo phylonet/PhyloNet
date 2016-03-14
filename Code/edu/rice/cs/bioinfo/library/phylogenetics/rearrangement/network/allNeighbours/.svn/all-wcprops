@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/687/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours
+END
+ReticulationEdgeDestinationChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/ReticulationEdgeDestinationChange.java
+END
+ReticulationEdgeAddition.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/ReticulationEdgeAddition.java
+END
+NetworkRearrangementOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/NetworkRearrangementOperation.java
+END
+EdgeSourceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/EdgeSourceChange.java
+END
+ReticulationEdgeDeletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/ReticulationEdgeDeletion.java
+END
+NetworkWholeNeighbourhoodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/NetworkWholeNeighbourhoodGenerator.java
+END
+NetworkNeighbourhoodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/NetworkNeighbourhoodGenerator.java
+END
+NetworkNeighbourhoodRandomWalkGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/r/bioinfo/!svn/ver/687/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/rearrangement/network/allNeighbours/NetworkNeighbourhoodRandomWalkGenerator.java
+END

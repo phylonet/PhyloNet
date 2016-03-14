@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/r/bioinfo/!svn/ver/1182/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet
+END
+CommandExecuter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/r/bioinfo/!svn/ver/124/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/CommandExecuter.java
+END
+Program.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/r/bioinfo/!svn/ver/726/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/Program.java
+END
+PhyloNetAAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/r/bioinfo/!svn/ver/742/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/PhyloNetAAT.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/160/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/Constants.java
+END
+ContextSensitiveAnalyser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/r/bioinfo/!svn/ver/229/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/ContextSensitiveAnalyser.java
+END

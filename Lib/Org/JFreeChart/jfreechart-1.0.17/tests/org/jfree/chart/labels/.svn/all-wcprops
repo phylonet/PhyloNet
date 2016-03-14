@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels
+END
+BubbleXYItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/BubbleXYItemLabelGeneratorTest.java
+END
+StandardXYSeriesLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardXYSeriesLabelGeneratorTest.java
+END
+StandardXYToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardXYToolTipGeneratorTest.java
+END
+IntervalCategoryToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/IntervalCategoryToolTipGeneratorTest.java
+END
+StandardXYItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardXYItemLabelGeneratorTest.java
+END
+IntervalCategoryItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/IntervalCategoryItemLabelGeneratorTest.java
+END
+BoxAndWhiskerXYToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/BoxAndWhiskerXYToolTipGeneratorTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/package.html
+END
+StandardCategoryToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardCategoryToolTipGeneratorTest.java
+END
+StandardCategorySeriesLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardCategorySeriesLabelGeneratorTest.java
+END
+StandardPieToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardPieToolTipGeneratorTest.java
+END
+CustomXYItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/CustomXYItemLabelGeneratorTest.java
+END
+ItemLabelPositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/ItemLabelPositionTest.java
+END
+StandardCategoryItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardCategoryItemLabelGeneratorTest.java
+END
+HighLowItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/HighLowItemLabelGeneratorTest.java
+END
+SymbolicXYItemLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/SymbolicXYItemLabelGeneratorTest.java
+END
+ItemLabelAnchorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/ItemLabelAnchorTest.java
+END
+StandardPieSectionLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardPieSectionLabelGeneratorTest.java
+END
+BoxAndWhiskerToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/BoxAndWhiskerToolTipGeneratorTest.java
+END
+StandardContourToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardContourToolTipGeneratorTest.java
+END
+StandardXYZToolTipGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/StandardXYZToolTipGeneratorTest.java
+END
+MultipleXYSeriesLabelGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/748/Lib/Org/JFreeChart/jfreechart-1.0.17/tests/org/jfree/chart/labels/MultipleXYSeriesLabelGeneratorTest.java
+END

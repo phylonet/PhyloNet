@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings
+END
+LicenseDE.txt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/LicenseDE.txt.h
+END
+LicenseCOM.txt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/LicenseCOM.txt.h
+END
+msvcm80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/msvcm80.dll
+END
+copasi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/copasi.jar
+END
+CopasiJava.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/CopasiJava.dll
+END
+msvcp80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/msvcp80.dll
+END
+msvcr80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/msvcr80.dll
+END
+copasi_gui.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/copasi_gui.jar
+END
+LicenseUS.txt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/r/bioinfo/!svn/ver/8/Lib/Org/copasi/java%20bindings/LicenseUS.txt.h
+END

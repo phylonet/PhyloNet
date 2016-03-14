@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan
+END
+CreateOptimumHMM.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/CreateOptimumHMM.java
+END
+ReprocessOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/ReprocessOutput.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/Configuration.java
+END
+ConfigurationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/998/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmmEthan/ConfigurationBuilder.java
+END

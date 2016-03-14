@@ -1,0 +1,83 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Amazon.FPS.Samples</RootNamespace>
+    <AssemblyName>Amazon.FPS.Samples</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <ProjectGuid>{C9C079BB-B4FE-3691-ADED-B79919B01BC8}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Amazon.FPS.Samples\AmazonFPSSamples.cs" />
+    <Compile Include="Amazon.FPS.Samples\CancelSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\CancelSubscriptionAndRefundSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\CancelTokenSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\FundPrepaidSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetAccountActivitySample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetAccountBalanceSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetDebtBalanceSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetOutstandingDebtBalanceSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetPaymentInstructionSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetPrepaidBalanceSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetTokenByCallerSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetTokensSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetTokenUsageSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetTotalPrepaidLiabilitySample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetTransactionSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\GetTransactionStatusSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\InstallPaymentInstructionSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\PaySample.cs" />
+    <Compile Include="Amazon.FPS.Samples\RefundSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\ReserveSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\SettleDebtSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\SettleSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\VerifySignatureSample.cs" />
+    <Compile Include="Amazon.FPS.Samples\WriteOffDebtSample.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Amazon.FPS\Amazon.FPS.csproj">
+      <Project>{6474AA01-68C5-3FB1-806D-59ABB1AE18D1}</Project>
+      <Name>Amazon.FPS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

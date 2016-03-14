@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/r/bioinfo/!svn/ver/1000/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni
+END
+NetworkFactoryFromRNNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni/NetworkFactoryFromRNNetwork.java
+END
+NetworkFactoryFromRNNetworkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni/NetworkFactoryFromRNNetworkTest.java
+END
+BfsSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni/BfsSearch.java
+END
+BniNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/996/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni/BniNetwork.java
+END
+DfsSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/r/bioinfo/!svn/ver/226/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni/DfsSearch.java
+END
+BniNetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/r/bioinfo/!svn/ver/1000/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/structs/network/model/bni/BniNetNode.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/r/bioinfo/!svn/ver/596/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/recomp/comparator
+END
+PAUPAvgMinComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/recomp/comparator/PAUPAvgMinComparator.java
+END
+PAUPAvgMaxComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/recomp/comparator/PAUPAvgMaxComparator.java
+END
+PAUPIntersectionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/recomp/comparator/PAUPIntersectionComparator.java
+END
+PAUPWindowComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/r/bioinfo/!svn/ver/596/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/recomp/comparator/PAUPWindowComparator.java
+END
+PAUPParsDiffComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/r/bioinfo/!svn/ver/60/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/recomp/comparator/PAUPParsDiffComparator.java
+END

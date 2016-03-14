@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/r/bioinfo/!svn/ver/1011/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes
+END
+ApplyNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/r/bioinfo/!svn/ver/757/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes/ApplyNetwork.java
+END
+PrintNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/r/bioinfo/!svn/ver/1011/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes/PrintNetwork.java
+END
+FelsensteinAlgorithmBiAllelic.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/r/bioinfo/!svn/ver/757/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes/FelsensteinAlgorithmBiAllelic.java
+END
+SimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/r/bioinfo/!svn/ver/757/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes/SimpleTest.java
+END
+snappComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/r/bioinfo/!svn/ver/757/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes/snappComparison.java
+END
+JCModelBiAllelic.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/r/bioinfo/!svn/ver/1011/Code/Java/Unstable/edu/rice/cs/bioinfo/programs/phylonet/algos/hmm/prototypes/JCModelBiAllelic.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/phylograph2factories/richnewick/_1_0/ast
+END
+PhyloGraphBuilderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/phylograph2factories/richnewick/_1_0/ast/PhyloGraphBuilderBase.java
+END
+PhyloGraphBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/r/bioinfo/!svn/ver/237/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/phylograph2factories/richnewick/_1_0/ast/PhyloGraphBuilder.java
+END
+RNNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/r/bioinfo/!svn/ver/169/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/phylograph2factories/richnewick/_1_0/ast/RNNode.java
+END
+NetworkToPhyloGraph2FactoryDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/r/bioinfo/!svn/ver/169/Code/Java/Unstable/edu/rice/cs/bioinfo/library/phylogenetics/phylograph2factories/richnewick/_1_0/ast/NetworkToPhyloGraph2FactoryDefault.java
+END

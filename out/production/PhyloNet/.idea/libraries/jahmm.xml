@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jahmm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Com/Google/jahmm/jahmm-0.6.1-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Com/Google/jahmm/jahmm-0.6.1-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/Com/Google/jahmm/jahmm-0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

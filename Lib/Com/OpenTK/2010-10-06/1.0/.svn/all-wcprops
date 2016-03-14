@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0
+END
+uninst.exe
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/uninst.exe
+END
+OpenTK.url
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/OpenTK.url
+END
+OpenTK.snk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/OpenTK.snk
+END
+OpenTK.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/r/bioinfo/!svn/ver/8/Lib/Com/OpenTK/2010-10-06/1.0/OpenTK.sln
+END
