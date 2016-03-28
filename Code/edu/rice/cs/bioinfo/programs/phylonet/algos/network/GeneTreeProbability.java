@@ -22,7 +22,7 @@ import java.util.*;
  */
 
 public class GeneTreeProbability {
-    private boolean _printDetails = false;
+    private boolean _printDetails = true;
     private List<String> _netTaxa;
     private List<String> _stTaxa;
     private boolean [][] _R, _M, _S;
